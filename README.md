@@ -3,6 +3,10 @@
 Code for the paper [Neural Generation of Regular Expressions from Natural Language
 with Minimal Domain Knowledge](http://arxiv.org/abs/1608.03000) (EMNLP 2016).
 
+---
+![Model Diagram](https://raw.githubusercontent.com/nicholaslocascio/deep-regex/master/model5.png)
+---
+
 #### Summary
 Our neural model translates natural language queries into regular expressions which embody their meaning. We model the problem as a sequence-to-sequence mapping task using attention-based LSTM's. Our model achieves a performance gain of 19.6% over previous state-of-the-art models.
 
