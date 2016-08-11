@@ -1,0 +1,2500 @@
+lines having words with or without a letter or a vowel
+lines with words with the string <M0> , the string <M1> , and a lower-case letter in them
+lines containing 3 numbers before the string <M0>
+lines with a letter and character before lower-case letter
+lines without a vowel followed by a letter that is lower-case
+lines containing a letter as well as a vowel followed by a character
+lines without a capital letter , string <M0> , or letter
+lines with vowel followed by letter before character .
+lines with words containing the string <M0> , a character , or a letter
+lines with words including a vowel , number , and letter
+lines having the string <M0> after a character , the string <M1> , or a lower-case letter
+lines with the string <M0> before a letter followed by a vowel at least once
+lines with a character and capital letter before vowel
+lines with 3 or more of a vowel before string <M0>
+lines that have at least 7 combinations of a character followed by a capital letter
+lines that do not contain a character but contain a lower-case letter , at least once
+lines containing the string <M0> followed by at least 1 vowel
+lines with 3 or more number before a vowel
+lines with vowel , 7 or more times before number
+lines having the following -a lower-case letter , the string <M0> , and a capital letter before the string <M1>
+lines with a capital before string <M0> and lower-case letter
+lines that have <M0> and a capital letter with a letter in front of it
+lines containing words with a number , a lowercase letter and the string <M0>
+lines contains only a letter or a vowel
+lines with a vowel before a character at least 2 times
+lines containing a capital letter minimum 1 time or 1 of a number , the string <M0> , or the string <M1>
+lines with the string <M0> followed by the string <M1> and the string <M2> , the string <M3> , and a lower-case letter in them
+lines with string <M0> before letter , 4 or more times
+lines ending with a character after a number , 6 times or more
+lines with string <M0> before lower case , <M1> , or number
+lines which are not ending with a character at least once
+lines that contain 1 of these - the word <M0> , a lower-case letter , or a character - followed by the word <M1>
+lines that have6or more letters or the word ''dog'
+lines having either lower-case letter , string <M0> , or number before string <M1>
+lines that contain a vowel or a lower-case letter , at least 7 times
+lines with a capital letter , character , and vowel
+lines containing lower-case letter and string <M0> , 6 or more times
+lines containing a lower-case letter or non-number
+lines with the string <M0> , letter , and number before a character
+lines that have a letter and the word <M0> preceding a character
+lines starting in words with a capital letter before string <M0>
+lines with a vowel before non character
+lines with words and zero or more of the string <M0> or letter
+lines containing a number , the string <M0> or a lower-case letter in front of a capital letter
+items with a letter or a character .
+the lines which contain a number followed by the string <M0> occuring at least once
+lines with a character before words with <M0> 7 times
+lines that contain a capital letter followed by a vowel , zero times or more
+lines with a capital letter before non number
+lines starting with a number and capital letter the string <M0>
+lines without a number and letter before string <M0>
+lines with words with a capital followed by vowel and a lower-case letter
+lines without a lower-case letter followed by a character
+lines not having the string <M0> or starting with a character in ttthem
+lines containing the string <M0> or a vowel at least twice
+lines with words with more than 1 letter
+lines without the string <M0> and no characters before the string 'dog
+lines that don't have a number , character , or lower case letters .
+lines possessing a vowel which precedes a letter no less than 3 times and all above
+lines with the string <M0> before a number
+lines starting with a number before lower-case letter
+lines with a number , a capital letter , or a vowel after the string <M0>
+lines with words and either a letter , the string <M0> , or a character
+lines that have 2 or more combinations consisting of the word <M0> followed by a capital letter
+lines with at least 1 letter and <M0>
+lines with a vowel , lower-case letter , or string <M0> before string <M1>
+lines with a vowel or letter before a character
+lines with a character , then a lower-case letter and a capital letter
+lines with words with letter followed by capital letter
+lines where a character can only come after a letter is used
+lines without the string <M0> before the string <M1> or the string <M2>
+lines containing a vowel , the string <M0> , and a capital letter
+items with <M0> , a letter , or a vowel .
+lines with a number before character or string <M0> and <M1>
+lines containing only string <M0> , 4 or more times before number
+lines that don't have a letter nor a character
+items without a vowel or <M0> or small letter .
+items without a numeral , an upper case letter , or <M0> .
+lines with words , capital letter , and a character
+lines where a small-case alphabet character comes after a word string containing a , e , i , o or u
+lines ending with number , 2 or more times
+lines containing the string <M0> or at least 1 of the string <M1> before the string <M2>
+items without a numeral , vowel , or an upper case letter .
+lines that have a character with the string <M0> after .
+lines not containing a capital letter , a letter , or a character
+lines with words with string <M0> or lower-case letter
+lines with words ending in a character before string <M0>
+lines containing a letter or the string dog at least 7 times
+lines with a vowel and number before lower-case letter or string <M0>
+lines with a letter before a vowel , string <M0> , or lower-case letter
+lines without a character and a vowel
+the lines that begin with a letter coming before a capital letter
+lines with words with a letter before the string <M0> , 5 or more times in them
+lines with a lower-case letter before string <M0> or <M1> or letter
+items with words containing a vowel or an upper case letter .
+lines with a character starting in a number
+lines with 3 or more numbers
+lines with less than 7 of a letter before string <M0>
+lines with vowel at least once before string <M0>
+lines with words with a capital letter before a character in them
+lines with the string <M0> before a character
+lines ending in words with string <M0> and vowel
+lines containing words or the string <M0>
+items with a vowel at least 4 times preceding a character .
+lines that must have a number and a capital letter or the word <M0>
+items with a small letter preceding a letter at least 4 times .
+lines with vowel before a letter
+lines having no letter or a number
+lines containing string <M0> or vowel , 5 or more times
+items terminating with a character , a vowel , or a small letter .
+lines that doesn't have <M0> or lower-case letters
+lines without the string <M0> , 6 or more times
+lines with 6 or more of a capital letter before a number
+lines without a lower-case letter or the string <M0>
+lines which are starting with a number or a lower-case letter
+lines without a character  , the string <M0> or a lower-case letter
+lines with zero or more of a lower-case letter before a vowel
+lines that contains words containing a capital letter , character , or the string <M0>
+lines which are containing a character followed by a number
+lines wherein 5 or more times it contains words with an uppercase letter
+lines with <M0> , a number , and a letter
+lines that have at least5occurrences of a <M0> string preceded by a vowel
+items with an upper case letter preceding <M0> or a numeral , or a small letter .
+lines which are not having a number and a letter at least once
+lines containing a letter , the string <M0> , and 0 or more characters
+lines having a number , a vowel , and the string <M0>
+lines containing words in lower-case letters , a letter , and the string <M0>
+lines with a number , zero or more times and letter or capital letter
+lines that contain words with a capital letter followed by the string <M0> , zero times or more
+lines with <M0> before a capital letter , <M1> , and <M2>
+lines with a capital letter preceded at least once by the string <M0>
+lines without a letter , 7 or more times
+items with a numeral preceding <M0> preceding a vowel .
+lines with words with the string <M0> and a letter
+lines ending with <M0> 6 times before a vowel
+lines containing a capital letter before 5 or more vowels
+lines with a vowel before string <M0> or number at least once
+lines that end with the string <M0> , a vowel , and a capital letter
+lines that have a vowel or at least 1 <M0>
+lines with words with a character or string <M0> , 2 or more times
+lines without a vowel , character , or number
+lines with zero or more of the string <M0> before lower-case letter
+at least6times before the string <M0> use the string <M1>
+lines not including the word <M0> before a letter
+lines with words with a character followed by a letter
+lines with zero or more of a letter or character
+lines with words starting with 4 or more lower-case letters
+lines with a letter before character then non string <M0>
+lines containing the string <M0> before a character , or the string <M1>
+lines with only a lower-case letter and string <M0>
+lines with a vowel before string <M0> or a lower-case letter and character
+lines with not only a character 1 or more times
+lines with a vowel ending with a capital letter
+lines with words and 4 or more vowels
+lines ending with a number and the string <M0>
+lines with a vowel , the string <M0> , and a lower-case letter before the string <M1>
+lines without string <M0> , capital letter , or lower-case letter
+lines with words and string <M0> or <M1> before a capital letter
+items with a letter or a numeral .
+lines with either a capital letter or a vowel followed by <M0>
+line with 5 or more numbers
+lines containing a vowel followed by either a lower-case letter , the string <M0> , or the string <M1>
+lines that have the word <M0> followed by words that have a character and a capital letter
+lines that do not contain a character or number
+lines containing either a lower-case letter , a vowel , or a number after the string <M0>
+6 or more lines with the string <M0>
+lines with a letter or the string <M0> , capital letter , and string <M1>
+lines containing the string <M0> and at least 1 vowel
+lines with words , a vowel , and a capital letter
+lines with words and the string <M0> before a letter
+lines with some kind of letter or vowel or the string <M0>
+lines with a capital letter , a letter , as well as the string <M0>
+lines ending in 3 or more of the string <M0> before a characters
+lines that have the string 'ring , the string <M0> or the string <M1> before a letter
+lines ending with a number after 2 or more times a lower case letter
+lines with number , 2 or more times and containing string <M0>
+lines with a number and letter before character
+lines with a capital letter before string <M0> or letter
+lines which are containing a character before a lower-case letter
+lines with the string <M0> and <M1> or a character
+lines with a capital letter , number , or string <M0>
+items without any letter .
+lines containing the word <M0> with a number preceding it
+lines with the string <M0> before a capital letter and number
+lines which are not having a character , a number , or a vowel
+items with <M0> or a character at least 4 times .
+lines ending with character or vowel followed by string <M0>
+lines with the string <M0> before a number and ending in string <M1>
+lines with a number
+lines with the string <M0> or a letter coming before a vowel
+lines having a lower-case letter , string <M0> , and string <M1> before a vowel
+items with a numeral preceeding a character at least 7 times .
+lines with 2 or more of a lower-case letter before number
+lines with 5 or more capital letters before a lower-case letter
+lines with words and 2 or more letter or with a capital letter
+lines ending with a vowel followed by a character
+items with a numeral or a vowel preceding <M0> preceding a letter .
+lines that contain a capital letter followed by a letter and a character
+items with <M0> , a letter , and <M1> preceding a numeral .
+lines containing either the string <M0> , a vowel , or a lower case letter
+lines containing a vowel , the string <M0> , a capital letter , and a lower-case letter
+lines with words containing a vowel and a number
+lines with a letter , <M0> or <M1>
+lines with words that have the string <M0> at least 2 times
+lines with a vowel followed by a letter or the string <M0>
+lines starting in the string <M0> before a capital letter and string <M1>
+lines starting in zero or more of a number or string <M0>
+lines with a letter or a lower-case letter before a vowel in it
+lines with numbers before <M0> or a lower-case letter
+items with a numeral preceding a vowel preceding a character .
+lines without a vowel or ending in string <M0>
+items terminating with <M0> or <M1> at least twice .
+lines with a letter before a number
+lines with <M0> 5x or more , or lacking <M1>
+lines which are having a capital letter , a vowel , and a character before a lower-case letter
+lines ending with 2 or more numbers
+lines with at least 2 capital letters before another letter
+lines with a character before number and string <M0>
+lines containing <M0> , <M1> , or a lower-case letter
+lines that have at least 3 combinations of a character followed by a lower-case letter
+lines with a lower-case letter , string <M0> , or character before a capital letter
+lines that at least have the string <M0> followed by <M1>
+lines having a number , a capital , and vowel before string <M0>
+lines with a letter followed by vowel before a capital
+lines ending with a character 4 times
+lines with words with a letter , capital letter , and character
+lines with the string <M0> before a lower-case letter and a vowel
+lines containing words including a letter and with or without the string <M0>
+lines ending with 7 or more of the string <M0>
+lines with no vowel or number 5 times
+lines without lower-case letters 6 times or more
+lines that contain 7 or more times the string <M0> followed by a charactere
+lines ending with a number after a vowel
+lines with the string <M0> before string <M1> or letter
+lines containing number followed by lower-case letter at least once
+lines without a lower-case letter , 7 or more times
+lines without a capital letter or string <M0>
+lines that have at least 1 character and 1 letter
+lines with a lower-case letter at the end
+lines containing the string <M0> 2 or more times before a lower-case letter
+lines ending wih <M0> before a lower-case
+lines starting with string <M0> followed by letter
+lines starting with a capital and containing number
+lines with the string <M0> and a letter before string <M0>
+lines containing either a capital , lower-case letter , or number
+lines containing words having either a character , a capital letter , or the string <M0> , 6 times or more
+lines ending with words that contain a lower-case letter or the string <M0>
+at least once a capitol letter before the string <M0>
+lines with words with a number then a letter
+lines with the string <M0> , letter , and character before string <M1>
+lines with words starting with a letter
+lines with <M0> or <M1>
+items with a vowel , or <M0> , or a upper case letter preceding <M1> .
+lines with the string <M0> and a letter before character
+lines that contain a capital letter , a number , or the string <M0>
+lines containing string <M0> and a capital letter , 7 or so times
+lines with string <M0> before string <M1> or number , 4 or more times
+lines with a character and either a lower-case letter or the string <M0>
+items with a vowel preceding a small letter preceding <M0> .
+lines that have a character or capital letter followed by a number
+lines with words ending in zero or more characters
+lines with a number before lower-case letter then string <M0>
+6 or more lines with words with a lower-case letter
+lines that have 6 or more combinations of only a capital letter or number
+lines with a letter before string <M0> and a number
+lines ending with <M0> before <M1> once
+lines starting with capital letter not preceding lower-case letter
+lines with 3 or more words starting with <M0>
+lines ending in 5 or more of a character before a lower-case letter
+lines ending in 6 or more of a character or lower-case letter
+zero or more lines with a letter
+lines ending in words with a number
+any minimum of times  , lines should have a character then a lower case letter
+lines with words that don't string <M0> followed by a letter
+lines with a vowel before a lower-case and upper-case letter
+lines with a vowel before lower-case letter then letter
+lines containing a letter , the string <M0> , the string <M1> , and a character
+lines with a character and the string <M0> , the string <M1> , or the string <M2>
+lines without a number before a vowel
+lines with words with a number then <M0>
+lines with words which are ending with the string <M0> and a character
+lines containing words that have capital letter , character or number
+lines not having a character before the string <M0> followed by a vowel in them
+lines that end with a lower case over 7 times
+lines which are ending with words with a vowel and the string <M0>
+lines containing only string <M0> , 7 or more times
+lines with both a number and the string <M0>
+lines contaning <M0> , a lower-case , or <M1>
+lines with 4 or more of a lower-case letter before string <M0>
+lines with a character before a capital letter
+lines with a character followed by not a capital letter
+lines with a number at least 2 times
+items with words containing a small letter preceding a character .
+lines with a vowel , string <M0> , and letter before string <M1>
+lines with words that contain string <M0> before string <M1>
+items with words beginning with a small letter .
+lines with words with a character
+lines not containing the string <M0> , a capital letter , or a vowel
+lines with or without the string <M0> , and with the string <M1>
+lines with a letter or character and a lower-case letter
+lines without the string <M0> or a capital letter or string <M1> or <M2>
+lines with words and 3 ore more of strings of <M0> before the string <M1>
+lines with a lower case letter and a vowel and a character before a letter
+lines with a letter
+lines with the string <M0> , a number , or the string <M1> before the string <M2>
+items with an upper caee letter or a character preceding a vowel .
+lines containing the string <M0> or 3 or more numbers
+items with <M0> or an upper case letter or a numeral preceding <M1> .
+lines that have the word <M0> before the word <M1> , which is then followed by the word <M2>
+lines with a letter before the string <M0> at least 3 times
+lines containing words with a letter before a number
+lines ending with a character at least zero times
+lines having the string <M0> and the string <M1> or a lower-case letter
+lines that start with a lower-case letter before 3 or more of the string <M0>
+lines with a character before <M0>
+lines with string <M0> at least once before containing letter
+items with <M0> preceding an upper case letter , a letter , and <M1> .
+lines containing a number , the string <M0> , and a character followed by a capital letter
+lines containing string <M0> or starting with a capital
+letter ending with a vowel after a number
+items with a numeral at least6times preceding a small letter .
+items with words containing a small letter , a character , or <M0> .
+lines with string <M0> , 3 or more times and lower-case letter or letter
+lines with a vowel or string <M0> before a number and string <M1> and <M2>
+lines which are containing a lower-case letter and a character before the string <M0>
+lines containing a number preceded by a character and a vowel
+lines with a capital letter followed by at least 1 vowel
+lines with the string <M0> , the string <M1> , as well as the string <M2> followed by a lower-case letter
+lines with a character before a letter
+lines that do not have words ending in a capital letter
+lines with a capital letter or a number , zero or more times in them
+lines with words starting with a letter followed by string <M0>
+lines which contain 3 or more times a lowercase lettere
+lines which are starting with a lower-case letter before the string <M0> or a letter
+lines with words with a number or letter
+lines not having a letter or a capital and not a lower-case letter
+lines with a letter , a character , as well as the string <M0>
+items with words containing a vowel or character .
+linesthe string <M0> before a capital letter
+lines with a letter before a number or string <M0> or <M1>
+lines that contain a character followed by a number before a lower-case letter
+lines which are containing either the string <M0> , a capital letter , or a character
+lines having mimnimum 1 number and a capital letter
+lines containing lower-case letter followed by number
+ines with a capital letter at least once and which are ending with a number
+lines with a capital letter or a lower-case letter
+lines that contain a number , <M0> , or <M1> followed by a capital letter
+lines with a number before the string <M0> followed by the string <M1> in them
+lines with a letter and number before vowel
+lines with string <M0> before letter , lower-case letter , and character
+lines with a number before a vowel
+items with an upper case letter preceding a numeral at least 7 times .
+lines having the string <M0> and a lower-case letter at least 2 times
+lines with the string <M0> or the string <M1> at least once in them
+lines that have words that have a letter and a character , and also the <M0> string
+lines containing a capital or string <M0> and string <M1>
+lines not containing a capital letter nor the string <M0> followed by the string <M1>
+lines ending in words with string <M0> and <M1> and a lower-case letter
+lines containing over 4 characters and capitals
+lines with a capital letter at least 2 times prior to a vowel
+lines with a number before a character then string <M0>
+lines ending in the string <M0> before string <M1> and <M2> and a vowel
+lines that begin with a lower-case letter or the string <M0> , zero times or more
+line with at least 1 vowel
+lines that may have numbers , maybe at the end .
+lines starting with a lower-case letter and letter
+lines without a letter , a vowel , or lower-case letter
+lines starting with zero or more characters
+lines without a character , vowel , or letter
+lines with words , a number , a letter , or character .
+lines with words with a number , string <M0> , and lower-case letter before string <M0>
+items with any letter preceding a numeral .
+lines with 6 or more of a capital letter before a vowel
+lines with the string <M0> 4 times before a number
+lines with character preceding a vowel
+lines which are having the string <M0> , a lower-case letter , and a vowel before a character
+lines with a letter and the string <M0> coming before a number
+lines with a letter and number
+lines do not contain 7 or more capital letters , nor a number
+lines without the string <M0> , <M1> , or <M2>
+lines containing a number , the string dog or a lower-case letter in front of a capital letter
+lines where the string <M0> has a letter before it , no less than zero times
+lines with a number before a character at least 7 times
+lines which are containing words that contain only a letter
+lines with number before a capital followed by letter
+lines that don't <M0> followed by a lower-case letter
+lines with words and a vowel before the string <M0>
+lines with a capital letter then a lower-case letter and <M0>
+lines with zero or more of a character before string <M0> or <M1>
+lines 4 or more times with the string <M0> or a lower-case letter .
+lines with the strings <M0> and <M1> followed by a character
+lines containing a lower case letter preceded by a vowel
+lines with words and the string <M0> before a letter
+lines containing a vowel preceded by a letter .
+lines containing a vowel , followed by a capital letter and a number
+lines which are ending with a number and containing the string <M0>
+lines with words and starting in 7 or more of a lower-case letter
+lines with the string <M0> before ending with a lower-case letter followed by the string <M1> in them
+lines with letter , 3 or more times and containing a number
+items with words with a numeral at least thrice .
+lines with only a vowel before the string <M0>
+lines that contain6or more combinations of a vowel before a number
+the string <M0> before either a lower case letter or the string <M1>
+lines which have , in succession: a capital letter , a number , and a character
+lines starting with number followed by string <M0> or string <M1>
+items with works containing a small letter at least twice .
+lines that have a lower-case letter at the beginning 2 or more times
+lines with 4 or more of a number before capital letter
+lines with a lower-case letter before containing the string <M0> and a letter in them
+lines containing containing only character , 6 or more times
+lines with words ending in a capital letter before a vowel
+lines not having a vowel
+lines not containing a lower-case letter , a number , or a letter
+lines with words and a letter
+lines without the string <M0> ,  the string <M1> ,  a letter , or the string <M2>
+lines containing upper or lower case alphabet characters in at least5instances
+lines with the string <M0> before a vowel and a lower-case letter
+lines which have a number and a vowel in them .
+lines before ending a letter with string <M0>
+lines that contain the strings <M0> and <M1> , at least twice
+lines which are starting with the string <M0> and not a letter
+a vowel or number at the end of a line
+lines with string <M0> before vowel and lower-case letter or string <M1>
+lines with lower-case letter and  letter before a capital
+lines with letter or string <M0> , 2 or more times
+lines containing <M0> and a character followed by a letter
+lines with a vowel before a number that contain a dog .
+number or lower-case letter before <M0>
+lines containing a lower-case letter , the string <M0> , or a character
+lines with words a long with characters and the string <M0> and a letter
+lines with the string <M0> or stating with a 5 or more characters
+lines not starting with a character the string <M0>
+lines with <M0> + capital before a vowel
+items with  words containing a vowel , at least thrice .
+lines that have words that contain a vowel , a capital letter , and a lower-case letter
+items with a vowel preceding a letter at least thrice .
+lines not having vowel or string <M0>
+lines with 7 or more letters , or a character before the string <M0>
+lines with the string <M0> , zero or so times before a number
+lines containing words with a vowel and a lower-case letter
+items with an upper case letter preceding a numeral , a vowel , and <M0> .
+lines with vowels and letters more than 6 times .
+lines with a number followed by the string <M0> or <M1> 5 or more times
+lines containing words starting with number
+lines with a letter containing a vowel
+lines starting with <M0> , or <M1>
+lines with words with character or string <M0> , zero or more times
+items terminating with <M0> preceding a character at least 4 times .
+lines with vowel before lower-case letter , zero times or more
+the lines that contain words words that also have a vowel at least 1 time
+lines containing words with the string <M0> before a lower-case letter in them
+lines with the string <M0> followed by a letter and a character
+lines that end with a vowel or character
+lines with a vowel and string <M0> before string <M1> or a capital letter
+lines containing a capital letter , a number , and a letter
+lines with a number or ending in lower-case letter
+lines with the string <M0> , a lower-case letter , or string 'truck before the string <M1>
+lines not containing only a letter before lower-case letter
+lines that use the string <M0> twice or more , after a character .
+lines ending in words with the string <M0> and lower-case letter
+lines with words having the string <M0> before a vowel or a character
+lines that do not include the string <M0>
+lines ending in either a vowel or a lower-case letter .
+lines with 3 or more of a lower-case letter before string <M0>
+lines with words and either the string <M0> , a character , or number
+lines with a letter and 0 or more capital letters
+lines with 'string , <M0> and <M1> before a letter
+lines with words , a vowel , number , and capital letter
+the lines are starting with only a lower-case letter or the string <M0> .
+lines ending with a character 1 or more times
+items without <M0> preceding <M1> .
+lines that contain the string <M0> and more than 2 times preceding lower-case letters .
+4 or more times the lines should not have a number
+items with either <M0> or a letter .
+lines that do not contain a capital letter or a character followed by a letter
+lines containing the string <M0> , but not followed by 2 or more letters
+lines starting with the string <M0> zero or more times followed by a character
+lines that end only the string <M0> once
+lines that doesn't have the string <M0> before5or more of the string <M1>
+lines starting in a character before a letter and capital letter
+lines with no vowel or capital letter
+lines containing a vowel and a character , zero or more times in them
+lines with words with either the string <M0> , a letter , or a character in them
+lines which are starting with not a capital letter or a lower-case letter
+lines with zero or more lower-case letters before a capital letter then string <M0>
+lines having either a number , letter , or vowel before lower-case letter
+lines with words , a lower-case letter , and vowel
+lower-case letter before 'dog or a vowel
+items without a numeral preceding a letter .
+lines with a lower-case letter at least 6 times starting with <M0>
+lines with 3 or more instances of a character before a lower-case letter
+lines without a lower-case letter , not being a number , and not the string <M0>
+lines that have the <M0> string or an upper-case letter occurring 5 times or greater
+lines ending in and with only a vowel or number
+lines ending in a vowel and capital letter before string <M0>
+lines with a lower-case letter followed by a letter , occurring 7 or more times
+lines with a letter , vowel , or number
+lines that end with a letter or a vowel and a lower-case letter
+lines with the string <M0> and lower-case letter or vowel
+lines ending in a character and a capital letter
+lines with a letter or vowel before character
+lines starting with zero or more lower-case letters
+lines without 'dog or a letter
+lines with words containing the string <M0> , the string <M1> , or the string <M2>
+lines containing a character , followed by the string <M0> or 0 or more capital letters
+lines with a capital letter or <M0> as a string at least twice
+lines containing string <M0> or number at least once
+lines ending with a lower-case letter before a vowel in them
+lines without a character , number , or capital letter
+lines with a lower-case letter preceding a number 1 or more times
+items terminating with a vowel or <M0> .
+lines containing a character or the string <M0> and the string <M1> in them
+lines with the string <M0> and <M1> containing either a capital letter , a number
+lines with 5 or more of a capital letter before number
+lines not containing lower-case letter before string <M0>
+lines ending with not containing string <M0>
+lines that do not start with a character or the string <M0>
+lines starting with words with 2 or more vowels
+lines that contain lower case letters and at least 1 character .
+lines with a lower-case letter following any other letter
+lines with at least 2 words containing a capital letter
+lines containing a character before a letter
+lines with only zero or more letters
+lines with a letter , vowel , and string <M0> before string 'truck ;
+lines with words with the string <M0> before a letter or string <M1>
+lines with words that don't have a lower-case letter followed by string <M0>
+lines with a vowel , <M0> , & a small letter
+lines with a number , string <M0> , and capital letter before a lower-case letter
+lines with a number , and the strings <M0> and <M1> before a letter
+lines without ending in a number
+lines containing 2 or more numbers followed by a lower-case letter
+lines with a letter , zero or more times or  string <M0> before string <M1>
+lines starting in string <M0> without string <M1>
+lines with words with a number and string <M0>
+lines with no letters before the string 'dog
+items with words containing a vowel , characcter , and number .
+lines with either a capital letter , a letter , or a character
+lines with vowel and string <M0> before a capital letter
+items with an upper case letter , a letter , or a numeral .
+lower-case letter before a character 6 or more times
+lines with vowel followed by letter , 2 or more times
+lines with string <M0> before letter , 2 or more times
+items witha character at last thrice preceding a vowel .
+lines containing a vowel or a number at least 2 times
+lines with a number before the string <M0> at least 4 times
+lines with words with a number and a capital letter before the string <M0> in them
+lines starting in 6 or more characters or a vowel
+lines with a character before a number or capital letter
+lines containing a character or a capital letter at least 5 times
+items beginning with a vowel .
+lines with a capital letter before number or vowel
+lines with lower-case letter before number or zero or more of acapital letter
+lines with the strings <M0> before <M1> before a letter
+all lines
+lines with capital letters after a lower case letter .
+items with a numeral preceding a letter , at least twice .
+lines with 3 or more of the string <M0> before a character
+lines with words with zero or more of the string <M0> or with a lower-case letter
+lines ending in a letter
+lines containing string <M0> after a vowel
+lines without a capital letter followed by a letter
+lines with a character before the string <M0>
+lines having the string <M0> followed by a letter
+lines starting in less than 7 characters
+lines with words having the string <M0> a vowel or character
+items with an upper case letter at least 4 times .
+items with 'dog , a numeral , and an upper case letter .
+lines with vowel at least once before either a capital letter , string <M0> , or letter
+lines with 2 or more of the string <M0>
+lines with 3 or more of a capital letter or number
+lines with words with the string <M0> before the string <M1> 1 or more times
+lines with 3 or more or the string <M0> before a number
+lines containing either a capital , string <M0> , or a vowel
+lines with a number before 2 or more <M0>
+lines with a lower-case letter after a letter and a capital letter
+lines with words and stating with the string <M0>
+lines not having vowel , not a letter , and not a capital letter
+lines with a character or a letter
+lines ending in a vowel before string <M0>
+lines with the string <M0> before <M1> and vowel
+lines that have a 4 or more combinations of a vowel followed by a lower-case letter
+items with <M0> preceding <M1> at least thrice .
+lines with the string <M0> or the strings <M1> before <M2>
+items with a vowel preceding a letter at least 4 times .
+lines wherein at least once a letter is preceded by a vowel
+items with a vowel preceding <M0> preceding <M1> .
+lines with <M0> followed by <M1> before a character
+lines with <M0> 6 times or more then a character
+lines with only 3 or more of the string <M0>
+items beginning with a numeral at least 4 times .
+lines containing words with a vowel or a captial letter
+items with a small letter preceding a numeral or a vowel .
+lines without a number or starting in a lower-case letter
+lines with words with only 5 or more letters
+lines without a vowel before a capital letter
+lines with words starting with string <M0> , 7 or more times
+lines with a capital letter before a number and vowel
+lines with a letter before capital letter and vowel
+lines having the string <M0> , the string <M1> , and a number prior to a vowel
+lines containing 4 or more vowels , and a capital letter
+lines with a capital letter , a lower-case letter , and the string <M0> after a capital letter
+lines with zero or more of a vowel before a lower-case letter
+lines starting with <M0> or <M1> 7 times
+lines ending with a character , 5 or more times
+lines without the string <M0> , the string <M1> , lower-case letters , or characters
+lines that have a lower-case letter and a capital letter followed by a vowel
+lines having a character , lower-case letter , and string <M0> before string <M1>
+lines with a letter before words with string <M0>
+lines containing a vowel , a capital letter , and a lower-case letter
+lines with a number , vowel , or character
+lines with character , 6 or more times before capital letter
+lines with a letter before a lower-case letter then character
+lines that have a character preceding a letter , or containing a number
+lines with a vowel before a lower-case letter , 5 or more times in them
+lines with a vowel and letter before string <M0>
+lines with 4 or more of a number or lower-case letter
+lines containing a number and not with a vowel .
+lines starting with <M0> before a letter
+lines where a number doesn't come before a character
+lines with a character and vowel after a letter
+lines that have a vowel or a lower-case letter more than 2 times
+lines which have either the string <M0> a vowel or a character .
+lines with the string <M0> or character at lease once
+lines with an upper-case letter showing up ahead of a character
+lines containing 3 or more capital letters
+lines with the string <M0> before <M1> or a letter
+lines in which a lower-case letter is present prior to the appearance of capital letters
+lines with either string <M0> , <M1> or a capital
+lines stating with a letter before character
+lines containing a character or number
+lines containing a capital letter before a character
+lines with 2 or more of the string <M0> ending in a character
+lines with a letter preceding a number at least 6 times
+lines having a capital letter after a character , a letter , or a number
+lines with words with only a capital letter
+lines starting with string <M0> or number
+items with words with either a letter or <M0> .
+lines ending with a character , 4 or more times
+lines having the string <M0> or the string <M1>
+lines without the string <M0> before only a vowel
+lines with words and 4 lower-case letters
+items with a small letter and vowel preceding an upper case letter .
+items with an upper case letter or <M0>  .
+items with <M0> , a character , and a numeral .
+lines which are not having a vowel , the string <M0> , or a letter
+lines with a vowel before a capital letter at least zero times
+lines with words ending with string <M0> or character
+lines starting with string <M0> followed by vowel at least once
+lines with 3 or more of the string <M0> before <M1> and a letter
+lines that contain a letter followed by anything other than a lower-case letter
+lines with zero or more capital letters or ending with a lower-case letter
+items with a character or a letter , at least thrice .
+lines not starting with <M0> before <M1>
+lines with a lower-case letter before the string <M0> or vowel
+lines that contain a character and a vowel followed by a letter
+all lines
+lines with words and zero or more of the string <M0>
+lines with 6 or more characters or string <M0> to start
+lines with vowel followed by string <M0> , 3 or more times
+lines with a vowel , <M0> , or <M1> occuring before <M2>
+lines ending with a character after the string dog 4 or more times
+lines with letter followed by vowel and containing string <M0>
+the string <M0> a number or a vowel appears in the lines
+lines with a vowel , a letter , and a number
+lines with 4 or more of a character or number
+items with a character at least 4 times preceding a number .
+lines that have a vowel followed by the word <M0> , <M1> , or <M2>
+lines with the the string <M0> before a character
+lines with a letter followed by a character before not a capital letter in them
+lines having either string <M0> , string <M1> , or character before vowel
+lines containing a number after a vowel 5 or more times
+lines that must have a vowel , letter , and the word <M0> followed by a character
+lines with words which contain the string <M0> , a capital letter , or a character
+lines which are ending with words with not the string <M0>
+lines containing either a character , letter , or string <M0>
+lines with either a vowel or a letter that come before a capitalized letter
+lines with 6 or more of a character and letter or string <M0>
+lines with a letter before a capital letter or the string <M0>
+lines with zero or more of the string <M0> or with a number and vowel
+lines with words with either a letter , a capital letter , or a number in them
+lines with number or character , 6 or more times
+lines with the string <M0> as well as the string <M1> before with or without a capital letter
+lines with <M0> , a letter , or <M1> before a vowel
+lines ending in a character without vowel
+lines with no vowels or "dog at the end
+lines that end with a combination that has a vowel , the word <M0> , or the word <M1>
+lines that do not have a lower-case letter or a capital letter
+items with a letter preceding <M0> , a small letter , and <M1> .
+lines with a capital letter 7 times before a vowel
+lines with a vowel or number before string <M0>
+lines with a character before string <M0> or non string <M1>
+lines with string <M0> before string <M1> followed by lower-case letter
+lines containing a number before a number and with or without a vowel .
+lines the contain either a character or a <M0> string at least 4 times
+lines containing either the string <M0> , the string <M1> , a letter , or 4 or more numbers
+lines which have a vowel , and 1 of the following before the vowel: the string <M0> , a number , or a letter
+lines that start with the string <M0>
+lines with words with a vowel , string <M0> , or capital letter
+items with words a vowel preceding a small letter .
+lines with a number , zero or more times or the string <M0> before a character
+lines with words and beginning with the string <M0>
+lines which are not having the string <M0> or a lower-case letter followed by the string <M1>
+lines with the string <M0> , a number or <M1> before a letter
+lines having a vowel followed by either a lower-case letter , a capital letter , or a character
+lines with the string <M0> , zero or more times and a lower-case letter or a capital letter in them
+lines with words capital letter or 2 times
+lines containing the string <M0> zero or more times and also containing a vowel
+lines beginning with a letter followed by a lower case letter
+lines with a vowel and a letter before lower-case letter
+lines containing 4 or more vowels
+lines with a letter before <M0>
+lines with words with the string <M0> followed by a lower-case letter in it
+lines without a letter
+lines with number zero times
+lines containing words having the string <M0> followed by a number 1 or more times
+lines that have the word <M0> followed by the word <M1> , as well as a lower-case letter
+lines ending with a number at least 3 times
+lines with the string <M0> ending in letter
+lines containing words and not just a number
+lines without the string <M0> before <M1>
+lines containing the string <M0> , a number , the string <M1> , and a capital letter
+lines with a letter string <M0> , a lower-case letter , or a capital letter
+lines that have words which contain a number , a lower-case letter , and a capital letter
+lines with zero or more of the string <M0> or lower-case letter
+lines not containing a vowel a character
+lines having either <M0> , a lower case letter , or a vowel then capital
+lines ending in a letter before string <M0> or <M1>
+lines containing words with a capital letter at least 7 times
+lines having either a lower-case letter , a capital letter , or a number before the string <M0> in them
+lines starting with words contain only a vowel
+lines that contain the string <M0> or a letter followed by a capital letter
+5 lines not having a dog character
+lines which have a vowel coming before a letter
+lines with words that contain the string <M0> , the string <M1> , and a lower-case letter in them
+lines with either the string <M0> or a number after a capital letter
+ends with lower-case letter
+lines with the string <M0> and a character before a number
+lines with a lower-case letter followed by the string <M0> before a letter in them
+lines start with 1 letter followed by vowel .
+lines starting with words with letter , 3 or more times
+lines without the string <M0> before a letter
+lines which have the string <M0> at least once before a vowel
+lines with a vowel and lower-case letter
+lines with a letter before something not being a vowel
+lines with a lower-case letter , vowel , or character
+lines with a vowel or a capital before any character
+lines without a number , letter , or capital letter
+lines containing a lower-case letter once
+lines with 7 or more letters before a vowel
+lines with capital before a character and string <M0>
+lines with the string <M0> before either a capital letter , the string <M1> , or the string <M2> in them
+lines without a capital letter or vowel
+lines starting with string <M0> or character followed by number
+lines with the string <M0> and a number before the string <M1> , zero or more times in them
+lines not ending in zero or more of the string <M0>
+lines with 7 or more of the strings <M0> or characters
+lines have the word <M0> less than 7 times .
+items without a small letter , a vowel , or <M0> .
+lines with 5 or more capital letters or vowels
+lines with words that contain the string <M0> , zero or more times in them
+lines with a capital letter or a character
+lines with no vowel before <M0> and no <M1>
+lines not a having a number
+lines with a character and string <M0> before a lower-case letter
+lines that don't only contain a letter , once or more
+items with an upper case letter , <M0> , or a small letter preceding a numeral .
+lines without starting in a letter before string <M0>
+lines containing words with a number , a character , or the string <M0>
+lines with a vowel before the string <M0> and <M1> and character
+lines with vowel before string <M0> or starting with string <M1>
+lines with zero or more numbers or characters
+lines with either a number , a letter , or the string <M0> followed by the string <M1>
+lines that have words with a letter , a lower-case letter , and the string <M0>
+lines with zero or more numbers before non string <M0>
+lines with words that end with a lower-case letter followed by the string <M0>
+lines with zero or more characters before a vowel
+items with a numeral preceding an upper case letter preceding <M0> .
+lines that contain the string <M0> , a lower-case letter , and a number
+lines with a number , the string <M0> , and a capital letter
+lines which have a character , the string <M0> , and vowel
+lines with a letter or the strings <M0> before <M1>
+lines without the string <M0> or capital letter
+lines starting in words with 6 or more of the string <M0>
+lines with words with the string <M0> followed by a letter occurring zero or more times
+lines not having <M0> , a capital letter
+items with <M0> and an upper case letter preceding <M1> .
+items with a numeral or small letter .
+lines not containing a lower-case letter before a capital
+lines with the string <M0> followed by a vowel and string <M1> at least 6 times
+lines not starting with character followed by number
+lines ending in the string <M0> before a vowel or string <M1>
+lines that have words with a number before 6 or more lower-case letters
+lines containing a capital letter followed by a vowel , at least 7 times
+lines starting with string <M0> before number
+lines starting in a character ending in letter
+lines with a lower-case letter and a character
+lines containing a number preceded by a letter 3 or more times
+lines stating with a number before the strings <M0> and <M1> and a letter
+lines with zero or more of a letter before a vowel
+lines with zero or more of the string <M0> or ending in string <M1>
+lines with a lower-case letter before a vowel
+lines that do not have these items - a number , lower-case letter , or the word <M0>
+lines starting with a lower-case and capital letter , followed by a number
+lines not having number followed by letter and not a lower-case letter
+lines with words and zero or more of a lower-case letter
+lines with a number followed by a character , a letter , or the string <M0>
+lines with 6 or more <M0> or ending with 6 or more <M1>
+lines with 6 or more capital letters before a letter
+lines without the string <M0> with string <M1> and <M2> and a letter
+lines containing string <M0> before 'vowel , 4 or more times
+lines with zero or more of the string <M0> before a capital letter or string <M0>
+lines don't contain the string <M0> , a capital letter , nor the string <M1>
+lines which are  not containing a capital letter , 6 or more times
+lines with the string <M0> or the string <M1> before a lower-case letter and the string <M2> in them
+lines containing 5 or more of the string <M0> followed by a vowel
+items with a letter preceding an upper case letter preceding a small letter .
+lines containing the string <M0> or 7 or more of the string <M1>
+lines that do not contain vowels , <M0> , or <M1>
+items with a vowel preceding <M0> preceding a numeral .
+lines with words with a character , a vowel , and a lower-case letter in them
+lines that might contain <M0> before a number
+lines with <M0> followed by a number
+lines that do not start with a letter
+lines starting with words and having the string <M0>
+lines where a capital letter does not precede the string <M0>
+lines with a vowel or without string <M0>
+lines containing a letter , a character , and a vowel
+items with a letter preceding a character and a numeral .
+lines with words , a vowel , and the strings <M0> and <M1>
+lines that either do not or contain at least 1 ending with words with the string <M0>
+lines having the string <M0> , a lower-case letter , and a number
+lines with string <M0> or number before vowel
+lines without a lower-case letter before the string <M0>
+items with words that have only an upper case letter .
+lines not containing the string <M0> , the string <M1> , or a vowel
+lines without the string <M0> or a character before letter
+lines with the string <M0> before the string <M1> , a lower-case letter , and a number in them
+lines not having string <M0> and not string <M1> , zero or more times
+lines with the string <M0> and a vowel before lower-case letter
+lines with words and a number or string <M0>
+lines with words having the string <M0> , the string <M1> , and the string <M2> , 3 times  or more
+lines with 6 or more of a letter before a capital letter
+lines with the string <M0> , followed by a character , and then containing a lower-case letter
+lines ending with a vowel string <M0> , zero or more times
+lines with string <M0> before capital letter
+ines with words with the string <M0> followed by a vowel and the string <M1> in them
+items with <M0> , a character , or a numeral .
+lines with words and ending in string <M0>
+lines starting in words with string <M0> and <M1> and a number
+lines with a character or vowel before capital letter
+lines with capital letter vowel followed at least once
+lines ending with a lower-case letter and stating with letter
+lines with the string <M0> , a lower-case letter , and a capital letter after a character
+lines with words ending with a lower-case letter and character
+lines having a vowel , a number , and a lower-case letter
+lines that have a letter prior to a capital letter , vowel , or character .
+lines having a vowel or a character 1 time .
+lines with a number followed by letter before string <M0>
+lines containing only letter , 2 or more times before string <M0>
+lines with a vowel before string <M0> or character
+lines containing words with a capital letter
+lines with a lower case letter after the string <M0> , a number , or the string <M1>
+lines containing a capital letter and a letter in them
+lines with string <M0> before containing a lower-case letter
+lines containing a lower-case letter after either the string <M0> , a number , or a letter
+items with a small letter , a character , or <M0> preceding <M1> .
+lines which begin with a number that comes before the <M0> string
+lines with zero or more numbers or the string <M0>
+lines with number , 2 or more times and ending with string <M0>
+lines starting with <M0> followed by <M1> 2 times
+lines with a lower-case letter , number , or string <M0> before a character
+lines wherein 6 or more times there is a letter preceded by a number
+lines that do not contain a capital letter , a vowel , or the string <M0>
+lines with a number before ending in string <M0> or a letter
+lines containing either the string <M0> , the string <M1> , or a number followed by a character
+lines that contain the words <M0> , a letter , or a number .
+lines that contain any character that are then followed by the string <M0>
+lines ending in zero or more of a letter and string <M0>
+lines with only a lower-case letter or vowel
+lines that have a vowel after a number more than 2 times
+lines that have a letter in lower-case coming before something that isn't a vowel
+items with <M0> preceding a numeral preceding <M1> .
+lines starting in string <M0> or capital letter
+lines containing a character , the string <M0> , and a letter in them
+lines ending with string <M0> before not the string <M1>
+lines without the string <M0> or a vowel or number
+lines with words with either strings : dog or truck , or a letter
+lines have words with a number , a lower-case letter , or a vowel
+lines with a capital letter followed by a letter occurrr zero or more times
+lines that have words with either a lower-case or capital letter or a vowel
+lines with zero or more of the string <M0> and <M1> before <M2>
+lines not containing the string <M0> , a lower-case letter , or the string <M1>
+lines that have words containing a capital letter as well as a vowel
+lines ending with a character or a lower-case letter directly preceded by a number
+lines with a letter before a lower-case letter
+lines containing a capital letter before a lower-case letter
+lines that have words containing a letter or a number
+lines that contain a vowel followed by a lower-case letter
+had <M0> 7 or or more times
+lines are empty
+lines that have at least 1 combination of the word <M0> and a capital letter
+lines with the string <M0> , vowel or character before a letter
+lines containing the string <M0> followed by a number and a vowel
+lines containing a vowel followed by the strings <M0> and <M1>
+lines with a vowel before the string <M0> and containing a lower-case letter in them
+lines that end in a vowel or number , 1 or more times
+lines with a vowel before string <M0> or <M1>
+lines that have a number , a character and then a letter
+lines with the word 'dog" , plus a number and a letter
+lines that begin with a capital and end with a lowercase
+lines with words ending with a capital letter
+lower-case letters in lines followed by the string <M0> before <M1> and the string <M2>
+lines not ending with vowel followed by string <M0>
+lines starting in words with a character , string <M0> , or vowel
+lines culminating without a lower-case letter or the string <M0>
+lines ending with string <M0> or letter followed by a capital
+lines with words , a number , and vowel
+lines with words with the string <M0> , <M1> , or <M2> before a character
+lines with words ending with containing a letter
+lines with a number after a capital letter at least zero times
+lines that have a number or lower case letter before a vowel
+lines that have words beginning with the word <M0> preceding a lower-case letter
+lines finishing hwith the string <M0> at least once followed by a vowel
+lines with <M0> and a number
+line without a vowel
+lines with a number before words with string <M0>
+lines with words that contain a lower-case letter , a number , or a vowel
+lines not having words that contain only a number
+lines ending with the string <M0> or the string <M1>
+lines with the string <M0> , number , and character before string 'truck'[
+lines with string <M0> before character or vowel
+lines containing 3 or more vowels before a lower-case letter
+lines with a vowel , a letter , and a numeral before a lower case character
+lines that do not contain a capital letter , the string <M0> , or a character
+lines without words or characters and string <M0>
+lines without a vowel , a number , or the string <M0> as well as a lower-case letter
+lines without either a character or the <M0> string
+lines with a capital letter followed by a lower-case letter , 3 or more times in them
+lines with a number , zero or more times before the string <M0> and a lower-case letter in it
+lines with a vowel before the string <M0> , 6 or more times in them
+lines without words with a number before vowel
+lines with a vowel before lower-case letter before number
+lines with the string <M0> and a lower-case letter
+lines not containing string <M0> and string <M1>
+lines that have a vowel coming before a <M0> string , a letter , and a character
+lines not a letter or the string <M0> at least twice
+lines with the string <M0> followed by 2 capital letters
+lines with the string <M0> before a capital letter a long with a character
+lines that contain only <M0> followed by <M1>
+lines wherein a character is preceded by the string <M0>
+lines with words containing a lower-case letter , a vowel , and a character
+items with a small letter preceding <M0> at least thrice .
+lines with a capital letter before a letter
+lines that have at least 1 combination of a number before a character
+lines without the string <M0> before a letter
+lines having words with the string <M0> , a number and a letter
+lines with no number with <M0>
+lines with a character after a lower-case letter at least 2 times
+lines that must not have a character or a letter
+items with <M0> , <M1> , and a small letter .
+lines containing only a character or without the string <M0>
+lines with a character or lower-case letter before vowel
+lines containing a letter preceded by a character
+lines with a number after a letter at least 3 times
+items with words containing a letter , a small letter , or a character .
+lines with words with letter and capital letter , zero or more times
+items with <M0> , <M1> , or a letter preceding an upper case letter .
+lines with a letter before words that contain the string 'dog in them
+lines with words starting with string <M0> or a number
+lines containing <M0> , a vowel , and a lower-case letter
+lines starting in 3 or more of a character or lower-case letter
+lines with letter followed by character before lower-case letter
+items terminating with a small letter preceding an upper case letter .
+lines with characters at least once starting with a lower-case letter
+lines with the string <M0> ending by a character
+lines with character before letter , 4 or more times
+lines that end with a letter , at least 7 times
+lines with the string <M0> or <M1> or a letter before a number
+lines with string <M0> followed by letter before string <M1>
+lines containing words with a capital letter before the string <M0> followed by a character
+items with an upper case letter or vowel preceding a numeral .
+lines without words and starting in string <M0>
+lines with lower-case letter before character , letter , and number
+lines with number before lower-case letter , 7 or more times
+lines with lower-case letters before 7 of the strings <M0>
+lines with the string <M0> before a lower case letter then by a capital letter .
+lines with <M0> before a capital letter or <M1>
+lines with string <M0> before not string <M1> and not the string <M2>
+lines that contain words that begin with a vowel and the string <M0>
+lines containing a letter after a character , the string <M0> , and the string <M1>
+lines that end with a lower-case letter followed by a capital letter
+items with a small letter preceding a character .
+lines with a capital letter followed by zero or more numbers
+lines were vowels come after the string <M0> and the string <M1>
+lines with a capital letter , vowel , or string <M0> before a letter
+lines with string <M0> before the string <M1> , the string <M2> , and the string <M3>
+items with an upper class and vowel preceding <M0> .
+lines with 7 lower-case letters before a letter .
+lines with a number before a character ending with a lower-case letter
+lines that have no characters in them
+lines that end with words with a lower-case letter or the string <M0>
+lines with the string <M0> before a number or a letter in them
+lines without a number or letter
+lines with 2 or more of string <M0> before non string <M1>
+lines that feature a small letter no less than 5 times and any number more than 5
+lines ending with <M0> or a number .
+lines containing the string <M0> or the string <M1>
+lines ending in vowel without string <M0>
+lines starting with a character before a capital letter , zero or more times in it
+lines with characters that follow the string <M0>
+lines not having string <M0> before string <M1> followed by letter
+lines that doesn't have zero or more of the string <M0> and anything not a number
+no lines containing the string <M0> or a capital letter
+lines not containing a number , vowel or character
+lines which are not having a letter and a number , 2 or more times
+lines ending with words with a capital before string <M0>
+lines with string <M0> at least once before number
+ines with a character or a capital letter occurring before the string <M0>
+lines that begin with at least 1 instance of the string <M0>
+lines with the string 'dog or 7 or more of a vowel , lower-case letter , or string <M0>
+lines containing words with the string <M0> preceding the string <M1> or a number
+lines without words containing a character preceding the string <M0>
+lines finishing with a letter followed by a vowel
+lines ending with a lower-case letter
+lines with a number and letter
+lines containing a lower-case letter followed by a vowel or a number
+lines not words with lower-case letter , 7 or more times
+lines with words and a lower-case letter , string <M0> , and character
+lines with the string <M0> and the string <M1> , character , or lower-case letter
+lines starting with a lower-case
+items with a small letter preceding <M0> and <M1> .
+lines with 4 or more of a capital letter before string <M0>
+lines that must have a vowel and the words <M0> and <M1>
+lines contain a lower-case letter and 4 or more characters
+lines containing the string <M0> before a number , the string <M1> , and a letter
+lines with a lower-case letter and a character at least 6 times
+lines that have the word <M0> , <M1> , or a lower case letter followed by <M2>
+items with words terminating with a numeral .
+lines with5or more words without characters
+lines ending with the string <M0> before a vowel , zero or more times in it
+lines with vowel before character , 6 or more times
+items terminating with <M0> at least6times .
+lines not containing a vowel , a lower-case letter , or a letter
+items beginning with a character preceding an upper case letter .
+lines with the string <M0> or with only zero or more of string <M1>
+items with a character or a letter preceding a numeral .
+lines with a capital letter before a character at least once in them
+lines ending with <M0> 7 times
+lines with words that contain the word <M0> , a vowel , or a lower-case letter
+lines that end with words with a character or a letter
+lines with a capital letter before string <M0> ending in string <M1>
+lines with the string <M0> , zero or more times and a lower-case letter followed by a vowel in them
+lines not having a lower-case <M0>
+lines with  lower-case letter before either the string <M0> , a letter , or number
+lines with words with string <M0> or string <M1> before string <M2>
+lines wherein at least once a number is preceded by a character
+lines with the string <M0> before words ending in string <M1>
+lines containing a character followed by 5 or more of the string <M0>
+only the lines not containing the string <M0> or <M1> .
+lines with character and string <M0> before capital letter
+lines with 4 ore more numbers before a lower-case letter
+lines with a number before vowel then string <M0>
+lines with lower-case letter and vowel before number
+lines having character , number , and lower-case letter before string <M0>
+lines with the string <M0> before vowel or number
+items with an upper case letter preceding a number and a small letter .
+lines with 6 or more vowels followed by characters
+lines ending with a lower-case letter or the string <M0> and the string <M1> in them
+lines with 2 or more numbers followed by a capital letter
+lines with a character followed by the string <M0> or 0 or more letters
+lines not containing a vowel or the string <M0>
+lines with the string <M0> before the string <M1>
+items without <M0> , a character , or a letter .
+lines that have either a character , the string <M0> , or the string <M1> before a number
+lines ending with a vowel before string <M0>
+lines ending with <M0> or a number 3 times
+lines with words with starting with a number , 4 or more times in it
+lines with lower-case letter at least once before character or  string <M0>
+lines that have a letter followed by a capital letter
+lines that don't start with a vowel before a capital letter
+lines with the 4 or more of a string <M0> before <M1> or a vowel
+lines with words and only a capital letter before the string <M0>
+items with an upper case letter or numeral preceding a small letter .
+lines containing a letter followed by the string <M0> or a lower-case letter
+lines with only less than 3 of the string <M0>
+lines starting with string <M0> before lower-case letter , zero or more times
+lines with <M0> , and at least 1 number
+lines without the string <M0> before a capital letter
+lines with a number preceding a capital letter 2 or more times
+lines not starting with the string <M0> followed by vowel
+lines not having a lower-case letter or the string <M0> , 6 or more times in them
+lines that start with string <M0> and with 1 or more vowels
+lines starting without numbers
+lines not having lower-case letter followed by letter at least once
+lines with a lower-case letter before a character which is followed by a capital letter
+lines that end with a number , zero times or more
+lines with 3 or more of a capital letter or vowel
+items with an upper case letter , a character , or <M0>
+lines containing a lower-case at least once
+lines that have words with 1 of the following: a number , capital letter , or the word <M0>
+lines having lower case letters before a letter , twice or more
+items with words containing an upper case letter , a character , or a vowel .
+lines containing the string <M0> , a character , and the string <M1> 1 or more times
+lines without the string <M0> or vowel
+lines starting a vowel  or 3
+lines that contain a capital letter , the word <M0> , and a vowel followed by the word <M1>
+lines with a vowel before lower-case letter or string <M0>
+lines that do not contain a character , a vowel , or a letter
+lines having 5 or more times string <M0>
+lines that do not contain a capital letter , the string <M0> or the string <M1>
+lower case letter without a character , zero or additional times following
+lines with words ending in a vowel
+lines with words and a number or starting in a capital letter
+lines containing lower-case and a letter
+lines with only a character at least zero times
+items with <M0> or <M1> or a vowel preceding a character .
+lines with either dog , a number , or a letter .
+lines that do not contain a number or the string <M0>
+lines with a number preceded 2 or more times by a number
+lines with a capital before vowel or string <M0>
+lines containing 6 lower-case letters before the string <M0>
+lines which have the string <M0> before a character or the string <M1>
+lines ending in 6 or more of a lower-case letter or number
+lines with string <M0> or number before a letter
+lines that contain either the string <M0> or a character
+lines ending with a lower-case letter
+lines with <M0> before a character then a letter
+lines without words with the string <M0>
+lines with words with ending with string <M0> , zero or more times
+items with words containing a small letter , a vowel , and a numeral .
+lines with a letter , a vowel , and a capital letter
+lines with a letter , number , and <M0> before a capital letter
+items with  <M0> preceding a small letter .
+lines with 3 or more of a number before capital letter
+lines with vowel followed by string <M0> , 4 or more times
+lines containing words including a character , the string <M0> , and a capital letter
+lines containing 6 more more uppercase letters
+lines with <M0> or <M1> and at least 1 <M2>
+items with a vowel , a small letter , or a character .
+lines that have an upper-case letter preceding either a number or the <M0> string no less then once or greater
+lines with the string <M0> and capital letter or a lower-case letter
+lines with words with either a lower-case letter , vowel , or letter
+lines containing a capital letter and followed by 6 or more numbers
+items without a letter nor character .
+lines containing 3 or more capital letters before a letter
+lines with words and 3 or more capital letters
+lines with a character after a lower-case letter at least 4 times
+lines with 3 or more words that start in a capital letter
+lines ending with words and a number , lower-case letter , or letter
+lines ending with a letter followed by a lower-case letter at least 4 times
+lines with character before a number
+lines having either a vowel , character , or number
+items without a numeral , <M0> , or a letter .
+lines containing 4 or more numbers times before a vowel
+lines ending with containing a letter at least once in it
+lines with the string <M0> , the string <M1> , and a number after the string <M2>
+lines with zero or more characters or with a lower-case letter
+lines having a character , a capital , and a lower-case letter before <M0>
+lines which have a capital letter before ending with a letter
+lines where at least once there is a character or uppercase letter
+lines with a letter
+lines with words with the string <M0> , a lower-case letter , and the string <M1> in them
+items without a starting vowel .
+lines where there is 1 instance of a letter preceding a capital letter
+lines with string <M0> before a capital
+lines with a letter or number , 6 or more times
+items with words containing a small letter or numeral .
+lines with 5 or more of words with a vowel
+the lines that contain either a lower case letter or the string <M0> followed by a number
+lines without the string <M0> followed by a lower-case letter at least 2 times
+lines with a number before lower-case or capital letter
+lines with words that don't have character before number
+items with a letter preceding <M0> , an upper case letter , and a numeral .
+items with a vowel , a small letter , a letter , and a vowel preceding <M0> .
+lines with 7 or more vowels before a character
+lines with 0 or more characters , a letter , the string <M0> , and the string <M1>
+lines with string <M0> followed by string <M1> or ending with string <M2>
+items with a character preceding a letter .
+lines starting with the string <M0> , the string <M1> followed by the string <M2> .
+lines with the string <M0> not being a letter
+lines ending in lower-case letter or with lower-case letter before string <M0>
+line of code that includes the string <M0> then the string <M1> repeated 4 times after
+lines containing lower-case letter or not a capital letter
+lines which are ending with a vowel , 2 or more times before the string <M0>
+lines with words and 1 or more number or the string <M0>
+items with a small letter preceding a vowel preceding a letter .
+lines with words starting in string <M0>
+lines ending with a letter or a lower-case
+lines without a capital letter , lower-case letter , or number
+lines containing a capital or a vowel , 4 or more times
+items begining with an upper case letter or a character .
+lines containing the string <M0> and a capital letter or the string <M1> in them
+lines which are containing a vowel and a letter at least once
+lines having either a capital letter or string <M0> or letter before <M1>
+lines with a capital letter before not a number , 3 or more times in them
+lines containing words and a letter and a small letter subsequent to that
+items with a vowel or character at least 7 times .
+items with a small letter preceding a number , <M0> and an upper case letter .
+lines with string <M0> or string <M1> before a capital letter
+lines where an alphabet character succeeds a , e , i , o or u
+lines with a letter , string <M0> , and capital letter
+lines with a letter , string <M0> , or number
+lines with a letter followed by a character or a lower-case letter
+lines with lower-case letters or <M0>
+lines with 4 or more of a number before a letter
+lines that begin with a lower-case letter or the string <M0>
+lines without the string <M0> before string <M1> or lower-case letter
+lines with the string <M0> or a character , zero or more times in them
+lines with  the string <M0> at least 7 times and comes before the string <M1>
+lines having a letter before either a number , a lower-case letter , or a capital letter
+lines with the string <M0> or <M1> ending in a number
+lines starting in 5 or more characters before a capital letter
+lines with a lower-case letter between the string <M0> and the string <M1>
+lines with words contain a vowel and the string <M0>
+lines that have a number , and then the string <M0> , the string <M1> , or the string <M2>
+lines with character followed by string <M0> , 4 or more times
+lines with a vowel coming after a character at least 5 times
+lines with the string <M0> after a character or the string <M1>
+lines that begin with a number followed by a character or the string <M0>
+lines which are starting with words that contain only the string <M0>
+lines stating with the string <M0> or a number
+items without at least once a character .
+lines that have a capital letter after the string <M0> at least 3 times
+lines with words that don't the string <M0> before a capital letter in them
+lines with a number , string <M0> , or character before the string <M1>
+lines with words alongwith a letter , a vowel , and a number
+lines with 2 or more of a string <M0> ending with a character
+lines with the string <M0> or zero or more of the string <M1>
+lines not having a number before vowel , capital letter , and lower-case letter
+lines with at least 6 numbers or vowels
+lines with lower-case letter , zero or more times before letter
+lines with words with string <M0> and vowel before a character
+lines with a letter followed by <M0>
+lines starting in a capital letter or string <M0>
+lines containing number or the string <M0> , zero or more times
+lines containing string <M0> , string <M1> , and a character
+the lines with the string 'truck ; at least once or the string 'dog before a vowel
+lines containing the string <M0> or a letter followed by the string <M1>
+lines with a letter before a lower-case letter
+lines with a letter before a lower-case and vowel
+lines without the string <M0> or without a letter
+lines not having vowel , at least 7 times .
+lines which are having a letter , the string <M0> , and the string <M1> before a lower-case letter
+lines that have 6 or more vowels before a lower-case letter
+lines containing 1 capital letter and 1 letter
+lines with zero or more strings <M0> before <M1>
+lines where a lower-case letter is preceded by a character no less than zero times
+lines with a lower-case letter or 5 strings of <M0>
+lines without  a character or a capital letter
+items without <M0> preceding a character .
+lines not having capital letter at least once or character
+lines having the string <M0> or <M1> at least once
+lines that contain a letter or begin with a vowel
+lines having either a lower-case letter , string <M0> , or a capital  before string <M1>
+lines with a character , lower-case letter , or string <M0>
+lines not having a capital and lower-case letter followed by string <M0>
+lines starting with <M0> 4 times
+lines with vowel , 5 or more times before string <M0>
+lines not ending with vowel , zero or more times
+lines with vowel followed by number , 2 or more times
+lines that have a character preceding a capital letter and a number , 1 or more times
+lines without a character , a number , or a lower-case letter
+lines with the string <M0> at least once before a character
+items with words containing a character , a small letter , or a capitla letter .
+lines not having a vowel , a letter , and <M0>
+lines with the string <M0> before a lower-case letter , vowel , and capital letter
+lines containing the <M0> string on 5 occasions or greater which then conclude with a vowel
+lines with lower case letter or letter before capital letter
+lines with a vowel before number then lower-case letter
+lines with the string <M0> before a letter then capital letter
+lines either with a vowel or that ends with the string <M0>
+lines having a character or a number , the string <M0> , and the string <M1>
+lines with capital letter before the string <M0> or a number
+line with the string <M0> , lower-case letter , or vowel before string <M1>
+lines without a lower-case letter just before a character
+lines with words with zero or more of a character with string <M0>
+lines with string <M0> before zero or more capital letters
+lines starting with <M0> or a capital letter
+lines having either lower-case letter , capital letter , or string <M0> before vowel
+lines starting with <M0> followed by a vowel
+items with a small letter preceding either <M0> , a character , or an upper case letter .
+lines that have a letter come before a <M0> string at least 3 times
+lines containing a number , a lower-case letter , and a letter
+lines containing a character before a number
+lines that end with a number then after has a character
+lines with vowel before either string <M0> , character , or a capital
+lines without a lower-case letter , the string <M0> or <M1>
+lines with a letter before vowel or number
+lines with 6 or more letters
+lines containing words that have a vowel before a character
+items with
+lines with a character before number or string <M0>
+lines containing any number of characters
+lines with a character or string <M0> or <M1> before a letter
+lines that end with a combination of the word <M0> , a character and a vowel
+lines with the 4 or more strings <M0> and <M1> or number
+lines with a lower-case letter followed by a character , 5 or more times in it
+lines not starting with lower-case letter at least once
+lines ending with 5 or more capital letters
+lines with words with either string <M0> , a capital , or  vowel
+lines that conclude with a vowel no less than 1 time at the minimum
+items with a numeral or small letter at least 7 times .
+lines with a lower-case letter and letter before a character then string <M0>
+lines with zero or more of the string <M0> before the string 'truck or a lower-case letter
+lines starting with either <M0> , <M1> , or a number
+lines with the string <M0> before a character , letter , and string <M1>
+lines with the string <M0> of <M1> or a capital letter
+lines containing <M0> at least once
+lines which are not having the string <M0> , not a capital letter , and not a number
+lines that have either <M0> or a lower-case or capital letter
+lines with words and string <M0> before a letter and string <M1>
+lines with a lower-case letter , the string <M0> , and the string <M1> after the string <M2>
+lower case letter or number before a character with the <M0> string
+lines that end with the string <M0> or a number
+lines containing only <M0>
+lines with the string <M0> before either a capital letter , a character , or the string <M1> in them
+lines containing words and ending with a capital letter or a lower-case letter
+lines with 6 or more letters and a capital letter
+lines with a character before capital letter and string <M0>
+lines do not contain 2 or more numbers nor a letter
+lines which contain the string <M0> or end with a vowel , at least 1 time
+lines containing string <M0> a lower-case letter , 5 or more times
+lines with a number or the string <M0>
+7 or more lines ending with a number
+lines with string <M0> and <M1> and vowel before a character
+lines with a capital letter and the string <M0> or a lower-case letter
+lines with a character , the string <M0> , or the string <M1> with a number beforehand .
+the line start with a number following a capital letter , zero or more times .
+lines containing a number first , followed by a character
+lines not ending with a number 5 times
+lines in which a character is preceded by either a letter or the strings <M0> or <M1>
+lines containing in them either a vowel , the string <M0> , or the string <M1>
+lines ending with lower-case letter or letter
+lines that don't have a character or a vowel
+lines with a number , lower-case letter , or string <M0> before a vowel
+lines that don't have  a character 4 or more times
+lines with less than 5 of the string <M0>
+lines starting in a lower-case letter before a number
+lines including a letter , a number , and the string <M0>
+lines with a capital letter , character , and string <M0> before the string <M1>
+lines with the string <M0> or a vowel
+lines containing the string <M0> , a vowel , and the string <M1> at least once
+lines where the string <M0> appears 6 or  more times followed by either the string <M1> , a vowel , or a letter
+lines with words with only the string <M0> before lower-case letter
+lines with less than 2 of the string <M0> or <M1>
+lines that end with a lower-case letter and a letter , zero times or more
+lines which are starting with a number or ending with the string <M0>
+lines without words and ending in a lower-case letter
+lines without a character followed by a lower-case letter
+lines which have the string <M0> followed by a number before the string <M1>
+lines with a capital letter before a vowel then string <M0>
+lines with a vowel , number , or letter
+lines not end with <M0>
+lines with a letter or that starts with 'dog
+lines with words with letter or string <M0> and string <M1>
+lines having a capital letter , the string <M0> , and a letter
+lines where a letter occurs either before the words <M0> or <M1> , or a capital letter
+lines with a character or <M0> before a capital letter
+lines with number before letter , 3 or more times
+lines containing only a character or vowel , zero or more times
+lines starting in 2 or more characters
+lines with words with a vowel followed by a capital letter
+lines with the string <M0> followed by a lower-case letter being before a number
+lines with words with a vowel or a number , 2 or more times iin it
+a letter before a number and the string <M0> comprise the lines
+items with a small letter preceding an uppercase letter .
+lines with words and a letter before a capital letter and then the string <M0>
+lines containing string <M0> or letter before string <M1>
+lines that contain the word <M0> at least once , plus the word <M1> or a character
+lines which are containing a lower-case letter before a character and the string <M0>
+lines with words without string <M0> or capital letter
+lines that have a lower-case letter , <M0> , or the string <M1> following a character
+lines not having lower-case letter or containing a capital
+lines with words with a character or <M0>
+lines containing a number , a letter , and a lower-case letter
+lines that have a character in front of the <M0> string and the number
+lines without a capital letter followed by a character
+lines that end with a vowel followed by a character
+lines with a lower-case letter , string <M0> , and letter before a capital letter
+lines that have words consisting of a lower-case letter , vowel , and a capital letter
+lines not having string <M0> followed by string <M1> at least once
+lines not ending with string <M0> , 7 or more times
+lines with string <M0> before letter followed by number
+lines ending in a vowel before a character
+lines with a character before non number
+lines with the string <M0> after the string <M1>
+does not have <M0> , a character , or a lowercase letter
+lines with words that don't have letter , string <M0> , or string <M1>
+lines can not start with a lower case letter or a number
+lines containing words having either a capital letter , a vowel , or the string <M0>
+lines containing string like <M0> , a number , a small letter before <M1>
+lines which are not ending with the string <M0> , 4 or more times
+lines containing number , the string <M0> , and the string <M1>
+lines starting with lower-case letter and string <M0> or string <M1>
+lines with a character , a number , or the string <M0>
+lines with a vowel following a number
+lines that do not contain the string <M0> , a number or a lowercase letter
+lines with lower-case letter , 4 or more times before capital letter
+lines with words and a vowel before a letter
+lines with character , 2 or more times or not the string <M0>
+lines starting with words ending with the string <M0>
+lines with a vowel after a capital letter , a lower-case letter , and the string <M0>
+lines with words starting with string <M0> before number
+lines having the string <M0> after a letter , the string <M1> , or a capital letter
+lines with <M0> then <M1> or another character
+lines with a lower-case letter followed by a vowel at least once in them
+lines that contain a number and the strings <M0> followed by <M1> , zero times or more
+<M0> before <M1> , a number , or a vowel
+lines without a number , a vowel or the string <M0>
+lines containing the string <M0> , <M1> or a letter .
+items with a letter preceding <M0> at least 4 times .
+lines with a character before the string <M0> , number , or vowel
+lines ending with a lower-case letter before a capital followed by letter
+items with <M0> preceding a lettter , a character and "truck' .
+lines having <M0> , a lower-case , and <M1>
+lines with a number before a character at least zero times
+lines not having string <M0> and string <M1> before letter
+lines with character or string <M0> , 2 or more times
+lines with the string <M0> or a capital letter , 4 or more times in it
+lines with a lower-case letter and letter before vowel
+lines with a lower-case letter , vowel , and string <M0> before a character
+lines without a number before string <M0>
+lines containing 3 or more of the string <M0> at the end
+lines having either lower-case letter , character , or string <M0> before a letter
+lines containing the string <M0> following by the string <M1> before a character once or more times
+lines that end with dog or zero
+lines containing a lower-case letter or ending with a number 1 or more times
+lines ending with a lower-case letter at least once
+lines containing a lower-case letter , a vowel , and the string <M0>
+lines with words with either a character , string <M0> , or a vowel , 6 or more times
+lines with a capital followed by lower-case letter , 5 or more times
+lines starting with a number and the string <M0> , 2 or more times in them
+lines with words a lower-case letter before containing a number
+: lines ending with words with vowel or letter
+lines that contain a character and end with a letter
+lines containing the string <M0> or 3 or more of the string <M1>
+lines with words with number or vowel
+lines ending in 7 or more lower-case letters or with a capital letter
+lines that have5or more letters or lower-case letters
+lines not start with a number
+lines without a vowel , or letter
+lines with a lower-case letter and a vowel or a capital letter , 4 or more times in them
+lines which are  not having a lower-case letter before ending with a number
+lines after the string string dog with a lower-case letter and a vowel
+lines without a capital letter and or the string <M0>
+lines containing capital letter
+lines with words with <M0> , a character , and a capital letter
+vowel before
+lines ending in zero or more of a vowel or letter
+lines with words containing a number , capital letter , or vowel .
+lines that contain a character , letter , or 0 or more instances of the string <M0>
+lines with a number or the string <M0> at least once
+lines ending in a letter before string <M0> or lower-case letter
+lines with a lower-case letter , a character , or the string <M0> after the string <M1>
+lines that contain a certain character zero or more times
+lines with an uppercase or lowercase letter or a vowel
+lines that end with only the string <M0> 7 or more times
+lines with words that contain a capital letter , a lower-case letter , and a letter
+lines with a vowel or a capital letter followed by the string <M0>
+lines that contain a lower-case letter followed by 3 or more capital letters
+lines containing a lowercase letter preceded by a vowel at least twice
+lines with words with a lower-case letter or a number iin them
+items with <M0> preceding a vowel preceding a small letter .
+lines with words that contain a number or the string <M0> in them
+items with a vowel preceding a nonletter .
+lines that have a lower-case letter followed by the string <M0> , at least 1 time
+lines with a number 4 or more times
+items with an upper case letter , a numeral , or a character .
+lines that must have 1 lower-case letter followed by the word <M0>
+lines with letter before number , 3 or more times
+lines with a vowel or ending with string <M0> , zero or more times
+lines with a character followed by a vowel
+lines that have the <M0> string in them , and also an upper-case letter prior to the  ; truck' string , as well as a character
+lines with words without zero or more characters
+lines with 4 or more capital letters followed by the string <M0>
+lines ending with a letter after a character
+lines having capital letter , lower-case letter , and vowel before string <M0>
+lines with 2 capitol letters or the string <M0> twice
+lines starting in a letter and string <M0> or <M1>
+items with words containing just <M0> at least5times .
+lines with the string <M0> before 5 or more vowels
+lines with a letter and number before vowel
+lines ending with character at least once or vowel
+items with a letter preceding a character and uppercase letter .
+lines with a character before the string <M0> then capital letter
+lines with words that contain character and string <M0>
+lines starting in 4 or more of the string <M0> or letter
+lines containing a letter followed by a character 1 or more times
+lines that end with a number at least once
+items without a small letter or numeral .
+lines without 5 or more capital letters or a vowels
+lines with words and the string <M0> followed by a vowel at least 6 times
+a lower-case letter after lines with a character or a number .
+lines with a vowel at least once before a letter in them
+lines containing a capital letter , a lower-case letter , a character , and the string <M0>
+lines with the ending string <M0> at least 4 times
+lines which are not having a vowel , not the string <M0> , and not a capital letter
+lines not containing a number or character
+lines containing either a number , the string <M0> , or a capital letter in it
+lines with the string <M0> before a character or string <M1> before number
+items with a numeral , a vowel , and an upper case letter preceding a letter .
+lines with 5 or more characters or lower-case letters
+lines containing a number before string <M0> and character
+a character and a lower cased letter is required of lines
+lines not containing only a number and not a character
+lines which are ending with a number before a letter
+lines where vowels come before letters
+lines with words that contain the string <M0> and the string <M1> , at least 7 times
+lines with the string <M0> and a lower-case letter before the string <M1>
+lines with a letter which is followed by a vowel at least once
+lines with a letter , character , or a <M0> string
+lines with the string <M0> and 'truck and a character before a capital letter
+lines finishing with a character at least once
+lines ending with a lower-case letter at least 4 times
+line that contains only numbers , can occur zero or more times .
+lines with words ending with number and string <M0>
+lines with a character before lower-case letter then string <M0>
+lines containing the word dog , followed by a number and a capital letter
+lines with letter followed by capital letter , zero or more times
+lines with a letter , a lower-case letter , or a number
+lines ending with a capital letter coming before a lower-case letter
+lines with or without a capital letter or the string <M0> followed by a character
+lines with words ending with vowels , or a zero
+items with any letter .
+lines starting in number before non vowel
+lines containing a lower-case letter or a vowel , 6 or more times
+lines with words with a number or ending with a character in them
+lines ending with lower-case letter or string <M0> , zero or more times
+lines having words with a capital letter , string <M0> , and with or without string <M1>
+lines starting with letter and string <M0> or vowel
+items with small letter preceding <M0> .
+lines with zero or more characters without a number
+lines which are starting with a capital letter or a character at least once
+items with a small letter at least 5 times .
+lines containing <M0> , starting with a number
+lines containing the string <M0> before the string <M1> , 6 or more times in them
+items with a letter preceding an upper case letter preceding a character .
+the lines that have a letter coming before either a capital letter or the string <M0>
+lines containing ending with the string <M0> or a character in them
+lines ending with character at least once before capital letter
+lines with the string <M0> , zero or more times or containing a letter in them
+lines that contain words with a number , letter , and a capital letter .
+lines with words the string <M0> before the string <M1> , a character and the <M2>
+line where 1 of 3 things comes after the string 'dog':  the string <M0> , a capital letter , or the string <M1>
+lines with 7 or more of the string <M0> before a lower case letter
+lines with a vowel , number , and string <M0> before capital letter
+lines with a vowel , the string <M0> , and a number after the string <M1>
+items with a numeral at least 1 time preceding a small letter .
+lines that have a character or end with a vowel , a minimum of 1 time
+lines that have the word <M0> at least 4 times
+lines with a letter before an ending with a capital letter
+lines with a vowel
+lines without 4 capital letters before numbers
+lines with a lower-case letter , letter , or number before string <M0>
+lines with words and a vowel , capital letter , and string <M0>
+lines with 7 or more characters before a letter
+items with a smal letter preceding <M0> and a character .
+items with an upper case letter and a numeral preceding a small letter .
+lines ending in the string <M0> and a letter
+lines with string <M0> before ending with containing only string <M1>
+lines with the string <M0> before <M1>  , a letter , or a lower-case letter
+lines with words that contain only 4 or more capital letters
+items terminating with a character .
+lines containing zero times vowel
+lines with words that begin with a character
+lines that have a vowel or lower-case letter .
+lines without a letter , the string <M0> , or a capital letter
+lines with at least 1 <M0> or <M1> and a number
+lines with the string <M0> after a capital letter at least 3 times
+lines containing a vowel or capital letter followed by the string <M0>
+the lines that have either a capital letter or lower-case letter at least once
+items with a character , a letter , and a vowel preceding a numeral .
+lines containing capital letter or lower-case letter , zero or more times
+use a character , lower-case letter or the string <M0> in the lines
+lines which are containing either a lower-case letter , a capital letter , or a number
+lines with a capital letter and starting in string <M0>
+lines starting with string <M0> at least once before string <M1>
+lines which may or may not contain words starting with a vowel
+items with <M0> preceding a small letter .
+line stating with words and with a lower-case letter , the string <M0> or <M1>
+items with any letter , at least6times .
+lines starting in a character with a vowel
+lines without a vowel and the string <M0> before <M1>
+lines with words , <M0> , a lower-case letter , and 'truck
+lines containing string <M0> , a capital , and vowel
+lines with a lower-case letter followed by a vowel , 7 or more times in them
+lines with a capital followed by string <M0> , zero or more times
+lines ending in a letter and vowel or string <M0>
+lines do not contain a lower-case letter nor a character
+lines with a character or lower-case letter
+lines starting in a lower-case letter or with a letter
+lines that have words with a character or a capital letter
+items with a small letter followed by any letter .
+lines that start with a word that has a character preceding a letter
+lines without a vowel , character , or capital letter
+lines with <M0> 5 times starting with a letter
+lines ending with <M0>
+lines with a capital letter followed by a lower-case letter , greater than or equal to zero times
+lines without a capital letter , character , or letter
+lines containing a vowel preceding a number
+lines with the string <M0> , number , and capital letter or a vowel
+lines with words numbers or letters
+lines containing containing only vowel before string <M0>
+lines with words with a capital letter , number , or vowel
+lines start with words and end with a number
+lines with 7 or more of a character before a vowel
+lines with a letter or a number followed by a capital letter
+lines that begin with the string <M0> or include the string <M1>
+lines with an occurrence of a number no less than zero times before a capital letter
+lines with a lower-case letter , 6 or more times but not a character
+lines ending in lower-case letter after a letter and the string <M0>
+lines that have a lower-case letter followed by either a vowel , capital letter , or a letter
+lines without a character not ending in string <M0>
+lines with the string <M0> , a vowel , and a character after the string <M1>
+lines with 2 or more of a letter before a character
+lines with number at least once before a capital
+lines with number , 2 or more times before character
+lines with a character ending in vowel
+lines with a vowel before a number followed by a lower-case letter
+the lines should have the string 'dog , a letter , and a vowel .
+lines which are starting with the string <M0> or ending with the string <M1>
+lines that do not contain a number followed by a character and do not contain the string <M0>
+lines which bigis with a vowel , a number , a character or a capital letter
+lines with a letter or string <M0>
+lines ending with a character , with at least 1 number before the last character
+lines with words and without a letter
+items with a vowel , an upper case letter , or letter preceding <M0> .
+lines with number containing only a character , 7 or more times
+items with <M0> , <M1> , and a character preceding a vowel .
+lines with a lower-case letter before vowel and character
+lines with lower-case letter before either string <M0> , letter , or string <M1>
+items with a numeral or an upper case letter at least5times .
+lines containing a capital letter , the string <M0> , and a lower-case letter preceding a number
+lines containing words with a lower-case letter or character
+lines with words with string <M0> and <M1> or a number
+lines with words with a capital before vowel , 3 or more times
+lines without a lower-case letter or with capital letter
+lines ending in 5 or more characters
+lines with the string <M0> followed by either a character or a letter
+lines with 1 character before the word <M0>
+lines that do not have a letter , vowel or the word <M0>
+lines with a character before the string <M0> or a capital letter in them
+lines with a vowel , lower-case letter and then a capital letter
+lines with a vowel after a number or a capital letter
+lines containing 7 or more capital letters
+lines with words that include a letter and a character
+lines ending with containing <M0>
+lines that have a lower-case letter and ends with a character
+lines containing the string <M0> before a lower-case letter .
+lines without a vowel
+lines having a lower-case letter , string <M0> , and string <M1> before string <M2>
+lines not having a character , capital letter , or number
+lines contain the string <M0> , at least 6 times prior to a capital letter
+lines without the string <M0> before a lower-case letter following a number
+lines with a letter preceding a vowel
+lines with vowels before <M0> and a number
+lines with the string <M0> , number , and vowel before string <M1>
+lines that do not contain a lowercase letter preceded by an uppercase letter
+all lines
+no number , capital letter or the string <M0> can be contained in the line .
+lines containing the string <M0> and the string <M1> at least 5 times
+lines with the string <M0> followed by a number , 6 or more times in them
+lines with a number or string <M0> or <M1>
+items with <M0> , an upper case letter , or a letter preceding a character .
+lines in which a letter comes before a capital letter
+lines either having a vowel , a lower-case letter or the word <M0> before a character
+lines that contain a vowel , a character , or a number followed by the string <M0>
+lines containing  only a lower-case letter or the string <M0>
+lines with a character before lower-case letter then number
+lines ending in vowel
+lines not containing a character , a capital letter , or a lower-case letter
+lines with vowel before lower-case letter or letter
+items with a letter preceding a small letter at least twice .
+lines with words with either the string <M0> , a capital letter , or a letter in them
+lines not having a letter , a vowel , and not a lower-case
+lines with the string <M0> before a character or with vowel
+lines containing string <M0> , 4 or more times before string <M1>
+lines with a letter or with zero or more of the string <M0>
+lines containing a vowel , a number , and the string <M0> followed by a character
+lines in which a letter is at the end on no less than 1 occasion
+lines with a character before a vowel then capital letter
+lines with a vowel , the string <M0> , and a number
+lines not having string <M0> and number before string <M1>
+lines with lower-case letter before a number
+lines with the string <M0> before a letter and string <M0>
+lines with words with no <M0> before letter
+lines with 4 or more of a letter before the string <M0>
+lines without a vowel with string <M0>
+lines with characters or the string <M0> followed by the string <M1>
+lines with the string <M0> after 2 or more numbers .
+lines with lower-case letter followed by number before letter
+lines that contain the string <M0> followed by a lower-case letter or a capital letter , zero times or more
+lines with words , a character , zero
+lines with lower-case letter or vowel , 5 or more times
+lines with a letter or string <M0> before a number
+lines with a letter before number or lower-case letter
+lines without string <M0> , number , character
+lines with only a lower case letter
+lines containing the string <M0> followed by a letter at least 6 times
+lines with capital letter or not a number , zero or more times
+lines beginning with a vowel or a number
+lines in which a vowel is preceded by either a number or a letter that's lower-case
+items with a small letter , twice or more before an upper case letter .
+lines with the string <M0> after the string <M1> , a character , or a letter
+lines with the string <M0> without number
+lines containing a number followed by the string <M0> at least 1 time .
+lines with 2 or more of a character before letter
+liens with 2 or more of a vowel before capital letter
+lines not having letter before ending with lower-case letter
+lines ending with a capital , 4 or more times
+lines with a letter after a lower-case letter , zero or more times
+lines without words with zero or more vowels
+the lines that have the words and contain the string <M0> at least 5 times
+lines containing a vowel preceding the string <M0> , the string <M1> , and a capital letter
+lines ending with string <M0> before lower-case letter
+lines with words and a character before string <M0>
+lines which are not having the string <M0> , a capital letter , or a number
+lines with 1 number and letter
+lines with the string <M0> before character and starting in letter
+lines that contain the string <M0> preceding a number , zero or more times
+lines with words and a number or capital letter
+lines that have words , the string <M0> , and a lower-case letter
+lines with a number preceding a vowel or the string <M0>
+lines without a letter before a capital letter , followed by <M0>
+lines containing a lower-case letter or a capital letter
+lines with a capital followed by vowel before lower-case letter
+lines do not contain 5 or more capital letters
+lines ending with a letter before vowel
+lines without the string <M0> or <M1> before a vowel
+items without <M0> .
+lines containing a character before a vowel preceding a lower-case letter
+lines that do not contain a lower-case letter followed by <M0> , 2 times or more
+lines without the string <M0> before a letter
+lines with vowel followed by number before lower-case letter
+lines containing string <M0> or a character
+items terminating with a numeral preceding <M0> .
+lines with a letter or a lower-case letter , 6 or more times in them
+lines not containing lower case letters or having a character  .
+lines not having a vowel ending with the string <M0>
+lines without a lower-case letter then a character
+lines with 4 or more instances of a number followed by a lower-case letter
+lines containing words that have a lower-case letter or a number with a vowel
+lines with string <M0> , 6 or more times and string <M1> followed by number
+lines with words and containing a number
+lines that end with <M0>
+lines containing the string <M0> preceded by a lowercase letter or a number
+lines with the string <M0> before a lower-case letter , 6 or more times in them
+no vowel , the string 'dog , or a number in the lines
+lines with lower case letters and a vowel before a letter
+lines followed by a vowel words
+multiple lines that contain a lower-case letter followed by a character which is not a number
+lines which end with a single letter .
+lines not having a capital letter <M0>
+lines beginning with a capital & <M0> or <M1>
+lines with a lower-case letter or string <M0> and character
+lines that start with a capital letter , a vowel , and the string <M0>
+lines with words with ending with a letter or the string <M0> in them
+lines with words with zero or more of a lower-case letter before string <M0>
+lines ending with the string <M0> , 2 or more times
+lines with a letter before a lower-case letter and character
+items with words containing <M0> , a ltter , or a vowel .
+lines with words ending in vowel or number
+lines that include at least 1 letter
+lines ending with not a vowel and lower-case letter
+lines with a lower-case letter and vowel ending in string <M0>
+lines with a lower-case letter or character
+lines ending in a letter or with capital
+lines with a character ending with the string <M0>
+lines that have a number followed by a letter
+lines with 5 or more small letter words
+lines that have only  the string <M0> then a vowel
+lines with a letter after a capital letter or a character
+lines with words and a character or string <M0> before a capital letter
+items with a letter , vowel , and <M0> .
+lines with a lower-case letter before string <M0> followed by string <M1>
+items with either <M0> , <M1> , or an upper case letter preceding a character .
+lines ending with <M0> , or a number and <M1>
+lines that contain either a character , a vowel , or a lower-case letter followed by the string <M0>
+lines with only a letter or a vowel at least 1 time
+the lines that start with the string <M0> followed by the string <M1> repeated 6 times or more
+lines 7 or more times with a character before a lower case letter
+lines that contain the string <M0> and a character , or the string <M1> at least once
+lines containing  the string <M0> followed by a letter , 5 or more times
+lines with zero or more of a vowel before number
+lines with a lower-case letter before capital letter then number
+lines without only the string <M0> before a capital letter
+lines with a character or lower-case letter before string <M0>
+lines can either have a lower case letter or a letter that follows a character
+lines ending in a number and character
+lines having words and a character before the string <M0> 3 times
+lines with 4 or more lower-case letter or the string <M0>
+lines ending with a capital letter , zero or more times
+lines containing a number followed by a letter or the string <M0>
+lines without the string <M0> , a number , or a letter that's lower-case
+lines with a vowel before a number or string <M0>
+lines including the words <M0> , <M1> , and at least 6 lower case letters
+lines with either a vowel or the strings <M0> and <M1>
+lines with the string <M0> coming before a vowel , the string <M1> , or a character
+lines not starting in a capital letter
+lines with 3 or more of a vowel or letter
+lines with zero or more of a string <M0> and 'truck and a lower-case letter
+lines that have a capital letter or a letter zero or more times
+items with a numeral or vowel preceding an upper case letter .
+lines having character , letter , and number before vowel
+lines with <M0> followed by a lower-case letter .
+lines containging a capital letter and a letter
+lines containing 4 or more vowels before a letter
+lines that must not have any lower-case letter or vowel
+lines ending with a capital letter and a number
+line with words containing a vowel or lower-case letter
+lines with a vowel or lower-case letter
+lines with a letter after a capital letter before a number
+lines with the string <M0> before 1 or more of the string <M1>
+lines containing the string <M0> . <M1> and a character
+lines with a number , letter , or <M0> before a lower-case letter
+lines with number or capital letter before character
+lines with at least 6 vowels before a lower-case letter
+lines without a character , vowel , and number
+lies with a letter at least once with a vowel .
+lines that have a number followed by a capital letter , at least 5 times
+lines with string <M0> before <M1> then a vowel
+lines having either lower case letter , a character , or the string <M0> before a number
+lines with a character , string <M0> , or capital letter before string <M1>
+lines with words and a lower-case letter followed by the string <M0> before a letter
+lines with only the string <M0>
+lines with string <M0> or a capital letter before string <M1>
+lines that contain words with a number or a vowel
+lines ending in the string <M0> or string <M1> and 'ring and a number
+lines with the string <M0> , 3 or more times before a character in them
+lines with words
+items without <M0> , <M1> , or a small letter .
+your choice , lines with either the string <M0> or <M1>
+lines with a character , 7 or more times before a capital
+lines ending with a capital letter but not the string <M0>
+lines that do not contain a number or the string <M0> before a vowel
+lines with a lower-case letter before string <M0> or <M1>
+lines with words ending with a vowel
+lines that have a character before the word string <M0>
+lines starting a capital letter before a character
+lines without either a capital letter or a vowel
+lines not having letter , not the string <M0> , and not the string <M1>
+lines with a character before string <M0> ending in lower-case letter
+lines with <M0> before <M1> , a number , or a vowel
+items with words containing a letter or <M0> .
+lines that conclude with the <M0> string , after which an upper-case letter is seen
+lines that contain the string <M0> or a lower-case letter , at least 6 times
+lines with words either a letter , string <M0>  or a lower-case letter
+lines with 6 or more times a letter  and the string <M0>
+lines starting with a small letter 5x or more , or <M0>
+lines containing the string <M0> following a number , the string <M1> , and the string <M2>
+lines finishing with the string <M0> or the string <M1> , a number , as well as the string <M2>
+lines where the string <M0> has a character or a capital letter in front of it .
+lines in which the <M0> string is present for a total of 3 times at the minimum or any number of times over 3
+lines with a vowel before a lower-case letter , string <M0> , or letter
+lines with only zero or more lower-case letters
+items terminating with an upper case letter preceding a character .
+lines with a character or letter before string <M0>
+lines containing a lower-case letter preceding a number followed by a letter
+lines containing the string <M0> , with or without only the string <M1> before it
+lines starting in a letter before string <M0>
+lines with only a letter
+items with a letter , small letter , and a vowel .
+lines with zero or more of the strings <M0> and <M1>
+lines with words starting with characters followed by any number
+lines with a number before non letter
+lines with a capital letter after a vowel at least 6 times
+lines ending with the string <M0> and a number
+lines with words that contain the string <M0> , a number , or a character
+lines with either a character or vowel or a letter
+lines with words with either a vowel , a capital , or a lower-case letter
+lines containing either a number , the string <M0> or a lower-case letter
+lines that have words with <M0> before 5 or more of the string <M1>
+lines with a lower-case letter , vowel , or string <M0>
+lines with the string <M0> , lower-case letter , or character before a capital letter
+lines starting with the string <M0> before <M1>
+lines containing a lower-case letter or a character preceding the string <M0>
+lines that contains a string with a vowel and a lower-case between the words <M0> and <M1>
+lines ending with only a character at least zero times
+lines with 3 or more of a lower-case letter or number
+lines containing a vowel , a character , or a letter followed by the string <M0>
+lines with the string <M0> , not the string <M1> , and not the string <M2>
+lines with a lower-case letter or string <M0> , number , and letter
+lines with string <M0> before a vowel
+lines with the string <M0> , vowel , or character before string <M1>
+lines with zero or more of the string <M0> before <M1> or lower-case letter
+lines having either lower-case letter , string <M0> , or string <M1> before number
+lines containing words with a capital letter followed by a vowel in them
+lines without a letter or the string <M0>
+lines with a lower-case letter followed by either a letter , the string <M0> , or the string <M1>
+lines that contain a vowel before <M0> and then followed by a number
+lines with string <M0> and string <M1> or string <M2> at least once
+lines having either a capital , string <M0> , or number before string <M1>
+lines with or without the string <M0> , or a number and a character
+lines starting in 7 or more of string <M0> before the string <M1>
+lines without a vowel , letter , or string <M0>
+items with 'dog
+lines beginning with a lower-case letter or a vowel
+items with words containing a small letter preceding a letter .
+lines having letters that aren't preceded by a vowel
+lines where a character occurs 7 or more times before a capital letter
+lines with a lower-case letter before a vowel , the string <M0> , and the string <M1> in them
+lines that contain a number or the string <M0> followed by a vowel and a letter
+lines with a number followed by a vowel , zero times before <M0>
+items with a character preceding a vowel preceding <M0> .
+lines with words ending in 4 or more vowels
+lined ending with a number
+lines with words with zero or more of a vowel and lower-case letter
+lines with 5 or more numbers or characters
+lines with 3 or more character before a number
+lines with a character or <M0> , 5 times or more
+lines with string <M0> followed by string <M1> or number at least once
+lines not having string <M0> before string <M1> , a capital , or string <M2>
+lines with <M0> or ending with a character
+lines with 7 or more of a string <M0> ending in vowel
+lines not having lower-case letter , not a vowel , and not a character
+lines with character before lower-case letter
+lines with words and zero or more capital letters with string <M0>
+lines ending with words 7 or more times with a letter
+lines with words with a letter and string <M0> before string <M1>
+lines with the string <M0> , a capital letter , as well as the string <M1> followed by a number
+lines with words with a lower-case letter before a vowel in them
+lines with a number , zero or more times or starting with a character in them
+lines where 4 or more times the string <M0> or a vowel is contained
+lines having the string <M0> before a number and a vowel as well
+lines with letter before number at least once
+lines with either a number , a vowel , or a letter followed by the string <M0>
+lines containing a character that end with a number
+lines that either have the string <M0> and a capital letter or the string <M1> , no less than zero times
+lines containing a character , a vowel , and a letter
+lines not words with a vowel , not a lower-case letter , and not the string <M0> in it
+items with a numeral , a letter , or a vowel .
+lines containing 3 numbers or 3 letters
+words with only lower-case letter appears 3 or more times in the lines\
+lines stating in words with string <M0> , a character , or lower-case letter
+lines with lower-case letter followed by capital
+lines with 6 or more letters before a number
+lines with a character , vowel , the string <M0> and a capital letter
+lines with a vowel before a number
+lines containing a number , a character , and a letter
+lines end with 2 or more letters
+lines with the string <M0> , a character , and the string <M1>
+lines starting in zero or more of a vowel before capital letter
+lines that have a vowel before a lower-case letter and before the string <M0>
+lines with 6 or more of a capital letter before a vowel
+lines containing a lower-case or a capital letter
+lines with words with zero or more capital letters before the string <M0>
+lines ending either with a letter or a character
+lines with a capital letter before a vowel or character
+lines with words with the string <M0> and a number at least once in them
+lines containing words with a character at least 3 times
+lines with words and a letter
+lines which are not having a character , not a capital letter , and not the string <M0>
+lines containing words with or without the string <M0> , followed by the string <M1>
+lines with a number , string <M0> , and vowel
+lines without the string <M0> , and which don't have a capital letter5times or more
+lines with a number before 5 of the strings <M0>
+lines where 3 or more times an uppercase letter is contained
+lines with a character , lower-case letter , or the string dog before a letter
+lines with a capital letter followed by a number
+lines without only 3 or more of the string <M0>
+lines without a number , string <M0> , or lower-case letter before string <M1>
+items with words containing a letter and <M0> preceding a character .
+lines containing words and a letter , the word <M0> and a number
+lines with words that have a capital letter , the string <M0> , and the string <M1>
+lines with the string <M0> , number , and character
+lines containing a number or a capital letter at least 6 times
+string starting with <M0>  in lines
+lines ending with words with string <M0> , 3 or more times
+lines with a vowel at least once or the string <M0> before a character in them
+lines that contain words with the string <M0> and which also contain the string <M1>
+items with a numeral preceding a letter at least5times .
+lines with only 4 or more characters or string <M0>
+lines with the string <M0> before a small letter
+lines with a vowel or a capital , 2 or more times
+lines containing either string <M0> , capital letter , or lower-case letter
+lines with a vowel then a letter
+lines starting with character before lower-case letter or letter
+lines with words and only 1 or more of a capital letter
+lines with a vowel or a number , 5 or more times in them
+lines with words and a lower-case letter with a number
+small letters followed by a number 3+ times before a capital
+lines with vowels after lower-case letter .
+lines starting in 7 or more of a number before string <M0>
+lines with words containing either a letter , the string <M0> , or a vowel and a lower-case letter
+lines with 3 or more of the string <M0> or with a character
+lines ending with <M0> before <M1> zero times
+lines with 7 or more of the string <M0> before a lower-case and capital letter
+lines with a number before a character
+lines with a number at least once before a letter in them
+lines ending in vowel with string <M0> before <M1>
+items beginning with a character preceded by <M0> .
+before the string <M0> , lines have either a number , character , or capital letter .
+lines beginning with a lower case letter with  the string <M0> following
+lines without vowel
+lines containing the string <M0> , followed by a vowel and a character
+lines ending in string <M0> before number
+lines with a capital letter , appearing at least twice , before the string <M0>
+lines containing a character , lower-case letter , and a number
+items with a character , <M0> or small letter .
+lines with a capital letter and a character after a vowel
+lines with string <M0> before ending with vowel , 3 or more times
+lines with string <M0> and a lower-case letter or string <M1> at least once
+lines with a character , with any amount not being the string <M0>
+lines with the string <M0> , lower-case letter , and vowel
+lines containing an uppercase number or the string <M0> 6 or more times
+items with a character or a letter , at least 7 times .
+lines with a lower-case letter or character
+lines do not contain a lower-case letter , the string <M0> , or a character
+lines with the string <M0> or letter and a character
+lines containing the string <M0> before with or without a vowel or a letter
+lines with the string <M0> before a letter and a vowel in them
+lines without a number starting in character
+lines with words with a vowel , number , or lower-case letter
+lines with a number before 6 or more of a character or vowel
+items with a vowel thrice or more preceding an upper case letter .
+lines containing string <M0> and a capital , 3 or more times
+lines with a vowel before a capital , a lower-case , and a character
+lines which have the <M0> string 7 times or greater and also have a vowel which comes prior to the <M1> string
+lines containing at least 1 character , the string <M0> , and a letter preceded by a vowel
+lines with string <M0> before a character then a capital letter
+lines containing a lower-case letter , followed by a vowel and the string <M0>
+lines with a lower-case letter before a number and vowel , 2 times or more
+lines ending in and with only the string <M0>
+lines with an uppercase letter preceded by a number 6 or more times
+lines with a number , string <M0> , or vowel
+lines ending with a vowel before a letter
+lines with string <M0> before lower-case letter or character
+lines containing a letter after a vowel 6 or more times
+lines with words and a character before string <M0> then <M1>
+lines containing a letter followed by a character or <M0>
+lines that have words and a number or the string <M0>
+lines containing the string <M0> , the string <M1> , and a letter followed by the sting <M2>
+lines with the string <M0> before only 2 or more letters
+lines with a number followed by a vowel
+lines with a letter before zero or more of the string <M0>
+lines that end with the string <M0> and end with a vowel , at least once
+lines with the words that contain ending with a letter
+items with words with <M0> , a vowel , and a character .
+lines with a vowel after string <M0> , the string <M1> , and a letter
+lines that end with a character
+lines with at least once a letter followed by string <M0>
+lines without the string <M0> or <M1> before <M2>
+lines that contain the string <M0> and a lower-case letter followed by a vowel
+lines with the string <M0> before a character and lower-case letter
+first a vowel then a character in lines
+lines with a number followed by either the string <M0> or a character
+lines with 4 or more vowels before string <M0>
+lines with a lower-case letter , string <M0> , or character before a letter
+lines which are having either a capital letter , a letter , or the string <M0> before the string <M1>
+lines with a number or lower-case letter before character
+at least6times have lines with a vowel followed by a number
+a line follows a capital letter .
+lines containing the string <M0> before a vowel , the string <M1> , and a capital letter
+lines ending in 5 ore more of the string <M0> before a lower-case letter
+lines which contain a capital letter before a lower case letter zero or more times .
+lines not having lower-case letter or letter
+lines without a number , <M0> or a vowel
+lines with a number or string <M0> before <M1>
+lines with 5 or more characters before a lower-case letter
+lines with a capital letter before the string <M0> followed by a number
+lines that does not end with a vowel or a number
+lines with words with letter , 6 or more times
+lines starting in 5 or more of a capital letter before string <M0>
+lines that end with a lower-case letter followed by a character
+lines with a letter before the string <M0> and capital letter or string <M1>
+at least 1 time the lines need to end with a character
+lines containing a character followed by a number , the string <M0> , as well as a lower-case letter
+items with words without <M0> .
+lines without a character , <M0> , or a number
+lines with a number and letter before string <M0>
+lines not having a vowel and string <M0> followed by string <M1>
+items terminating with <M0> preceding a letter .
+lines containing words starting with the string <M0> or a lower-case letter
+lines with words with string <M0> before a capital , zero or more times
+items with any letter , at least5times .
+lines with a capital letter before <M0> zero times
+lines containing at least 1 capital letter before a number
+lines containing characters
+lines that have a vowel or capital letter
+lines with words ending with a character
+lines with words with starting with the string <M0> , 5 or more times in them
+lines beginning with the string <M0> or a vowel before the string <M1>
+lines without a vowel or with capital letter
+lines ending in 3 or more of a number or string <M0>
+lines with a vowel , at least 3 times before a character
+lines containing either lower-case letter , string <M0> , or letter
+lines that have 3 or more combinations that do not contain the word <M0> or a vowel
+character before <M0> , a number , and a letter
+lines with a character , lower-case letter , and the string <M0> before a number
+lines wherein 4 or more times a vowel is contained
+lines ending with the string <M0> before <M1> being followed by any letter
+items with a letter at least6times preceding a vowel .
+items with a vowel at least 7 time preceding a letter .
+lines beginning with either an uppercase letter or character
+items with words containing a letter preceding a small letter .
+lines containing a letter before a lower-case letter , 6 times or more
+lines with a capital letter before a number at least 4 times
+lines containing a capital letter before at least 1 letter
+lines ending in string <M0> and zero or more of string <M1>
+lines without a character , number , or capital letter
+lines with words containing a lowercase letter , an uppercase letter and the string <M0>
+lines with 3 or more of the string <M0> before string <M1> or lower-case letter
+lines with a capital letter following a lower-case letter at least5times
+lines with number before 'dog
+the string <M0> or a lower-case letter appears before a character in the lines
+lines that start with 5 or more capital letters or the string <M0>
+lines with a lower-case letter before a character
+lines with a number before <M0> , a vowel <M1>
+lines with a character not before a capital letter
+lines with the string <M0> after a letter and a number
+lines with lower-case letter before capital letter followed by string <M0>
+items without a numeral at least twice .
+items with a small letter at least 4 times preceding a letter .
+lines with a vowel after a lower-case letter at least 5 times
+lines that contain words , the string <M0> and at least 1 number .
+items with a letter or a numeral .
+lines with a capital letter , number , or character
+lines that end with character before the string <M0> , 6 times or more .
+lines that have a capital letter , a number , and a vowel before the string <M0>
+lines with letter before either string <M0> , capital letter , or character
+lines starting in 2 or more of the string <M0> or lower-case letter
+lines with a lower-case letter before capital letter and number
+lines with words with a letter before vowel or string <M0>
+lines ending with 2 or more characters
+lines starting in words with a number and string <M0>
+lines with the string <M0> or <M1> or lower-case letter before a number
+lines with a lower-case letter , string <M0> , or letter before the string <M1>
+lines with a vowel or containing only the string <M0> at least once in them
+lines which are ending with containing a capital letter and a lower-case letter
+the string <M0> followed by the string <M1> or a vowel appears zero or more times
+lines with zero or less string <M0> or character
+lines which are not starting with a number , 3 or more times
+lines with string <M0> or lower-case letter , string <M1> , and a capital at least once
+lines with a lower-case letter
+items with <M0> preceding <M1> or a character at least6times .
+lines with 3 or more occurrences of a character followed by a letter
+lines without a capital letter , not being a number , and not being the string <M0>
+lines with both a letter and a lower-case letter
+lines ending with the string <M0> before a lower-case letter
+lines that have a vowel or lower-case letter before the word <M0>
+lines containing a vowel before a capital letter
+lines with characters before a vowel then lower-case letter
+lines without a number , lower-case letter , or string <M0>
+lines with words with 3 or more of a character and lower-case letter
+lines that the the word <M0> followed by anything but a character
+lines containing the <M0> , <M1>  and a capital letter before 'ring
+lines having a  letter , or the string <M0> before a vowel
+lines with a capital before lower-case letter and string <M0>
+lines not containing the string <M0> and not followed by a capital letter
+lines with a letter before capital letter then number
+lines with words and zero or more of the string <M0> and letter
+lines with zero or more of a letter and string <M0> before number
+a line with a capital letter at the end
+lines starting with a letter with a number
+lines not having a number , the string <M0> , a capital letter and a character
+lines with a number or vowel
+lines with words ending with a letter before string <M0>
+lines with a letter before the string <M0> , a vowel , and a capital letter
+lines that contain a capital letter or the string <M0> and a number
+line with a words followed by the string <M0>
+lines with 5 or more of a lower-case letter before vowel
+lines ending with containing only a lower-case letter , at least 5 times
+lines with <M0> not before a character
+lines without a letter , number , or character
+lines with 6 or more numbers
+lines which are not containing the string <M0> or the string <M1>
+lines not having vowel , not a lower-case letter , and not a number
+lines starting in 6 or more of the string <M0> and capital letters
+lines starting with a capital or lower-case letter
+lines in which a number comes prior to a lower-case letter , and followed by a letter
+lines without the string <M0> or a vowel
+lines with words without a character
+lines containing 0 or more lower-case letters or a capital letter followed by a number
+lines starting with words containing only letters
+lines without a number followed by a vowel
+6or more times in lines use a character before the string <M0>
+lines with <M0> before a vowel
+lines starting with a letter at least 4 times
+lines starting with a capital letter or the string <M0> , 2 or more times in them
+lines not ending with a word containing a vowel
+lines with the string <M0> coming zero or more times before a letter
+lines with a capital letter before a letter then lower-case letter
+lines containing a lower-case letter preceding a letter , zero or more times
+lines with words with no lower-case letter or vowel
+lines that contain a number , a character , or a lower-case letter
+lines with a lower-case letter after the string dog , a number , or a capital letter
+the lines that end with a number followed by at least 1 capital letter
+words with a letter appears before the string <M0> zero or more times in the lines
+lines with number or letter , 2 or more times
+items with a small letter preceding <M0> or a numeral .
+lines with a vowel , <M0> , or number before <M1>
+lines with words with a letter or the string <M0> , 6 or more times in them
+the string <M0> should be included with words in the string .
+lines with words and a character , lower-case , or capital letter
+items with an uppercase letter preceding <M0> preceding a letter .
+lines in which a lower-case letter or the string <M0> come after the string <M1>
+lines with a vowel and starting in string <M0>
+lines starting in zero or more of the string <M0> before  a vowel
+lines containing <M0> or any character , at least6instances
+lines with letters before a lower-case letter
+lines with a letter before the string <M0> and <M1> and a capital letter
+lines that have words with the word <M0> following a capital letter
+lines containing words without a lower-case letter
+items with a numeral preceding a character at least 1 time .
+lines with a vowel or number , zero or more times
+lines starting with 1 letter
+lines which are not containing only a letter and not a vowel
+lines with at least 1 character or number
+items with words containing any letter and numeral .
+lines with words with string <M0> before not a capital
+lines with words with string <M0> followed by string <M1> , zero or more times
+lines ending in zero or more of a letter or vowel
+lines with a letter , or a character
+lines containing only string <M0> or letter , 6 or more times
+lines starting with a letter coming before the string <M0> and a vowel
+lines without the strings <M0> , <M1> , or <M2>
+lines with only zero or more of a number or string <M0>
+lines with a lower-case letter before the string <M0> and that starts with a letter
+lines not having a character or a letter
+lines which are starting with a lower-case letter or containing a number
+lines starting in a character or non lower-case letter
+lines containing no letter or vowel .
+lines with a capital or lower-case letter , 3 or more times
+lines which do not contain the string <M0> or a vowel or a letter
+lines which are containing ending with a number , 7 or more times
+liens with a letter , or a character , number , and <M0>
+lines that must not have a character or a capital letter
+lines with words with a letter and containing only a lower-case letter in them
+the line words should start with a vowel
+lines which do not contain a vowel or the strings <M0> or <M1>
+lines that do not contain a vowel or a number
+lines containing the string <M0> preceding the string <M1> before a vowel at least zero times
+lines with a letter at least once before a small letter
+lines with the string <M0> before a letter or string <M1>
+lines with a character before a number then a capital letter
+lines which are containing the string <M0> followed by the string <M1> , 4 or more times
+lines ending in words and with string <M0> or a capital letter
+items with an upper case letter following a character but preceding a vowel .
+lines with a lower-case letter before number
+lines with the string <M0> , a number , as well as a letter followed by a character
+lines that start with the string <M0> and the string <M1> , 4 or more times
+lines with a number , capital letter , or string <M0> before a vowel
+lines without the string <M0> , character , or number
+lines should have a letterfollowed by a lower-case letter
+lines with the string <M0> and vowel or string <M1>
+lines with string <M0> or string <M1> before number , a letter , and string <M2>
+lines with a number , string <M0> , and letter before a character
+lines not having a number or a letter
+lines ending with a number or letter
+lines with a character , a number , and the string <M0> after a letter
+lines with words and a capital before lower case letter or string <M0>
+lines containing a capital letter and a lower-case letter
+lines not having lower-case letter , not a vowel , and not a number
+lines with words with either a number , a lower-case letter , or a capital letter in them
+lines contain a letter , the string <M0> , a vowel , followed by a capital letter
+lines stating with 2 or more of the string <M0>
+lines containing 2 or more vowels
+lines with the string <M0>
+lines with a number before a capital letter
+lines with 4 or more of a character and number
+lines with words not having a lower-case letter before the string <M0>
+items with <M0> following <M1> and letter and a small letter .
+lines without a capital letter , character , or a <M0> string
+items with a small letter or vowel at least 1 time .
+lines containing the string <M0> once or more
+lines with character before the string <M0> lower case letter , and a letter
+lines without a capital letter or string <M0> or <M1>
+lines with words with string <M0> , letter , and string <M1>
+lines with words containing the string <M0> , 7 times
+items with words containg any letter .
+lines stating with a letter
+sentence: lines containing a character or vowel
+lines with the string <M0> and lower-case letter before non capital letter
+lines that contain a number followed by a vowel and the string <M0> at least 4 times or more
+lines using the word string <M0> before the string <M1> , no times or more
+lines with the string <M0> before a capital letter , number , and character
+items with a letter preceding a numeral preceding an upper case letter .
+lines with the string <M0> , 3 or more times before a letter in them
+lines that have the string <M0> or <M1> 4 or more times .
+lines containg vowel , 2 or more times before the string dog
+lines containing lower-case characters
+lines having either a vowel , string <M0> , or number before a capital
+items with a small letter at least6times .
+lines containing 2 or more numbers and a character
+lines not having a letter before string <M0> or vowel
+lines containing string <M0> followed by string <M1> , 3 or more times
+lines containing a number before string <M0> but not containing a character before .
+lines starting in 4 or more of a letter or character
+lines with at least 1 number or the string <M0>
+lines with vowel ending words
+lines with letter before character and lower-case letter
+lines ending in the string <M0> before number
+lines without a number  , the string <M0> or <M1>
+lines starting in capital letter or lower-case letter
+lines having character , string <M0> , and letter before number
+lines ending with string <M0> at least once before number
+lines with the string <M0> or 0 or more numbers
+lines that have zero or more of the string <M0> and a character
+lines containing a letter and a vowel preceding the string <M0>
+lines that have a capital letter at the end
+items with a numeral preceding <M0> preceding <M1> .
+lines ending with string <M0> or containing only string <M1>
+lines with words with ending with a letter before the string <M0> in it
+lines with only string <M0> or letter
+lines with 2 or more characters before a capital letter
+lines containing the string <M0> and a lower-case letter followed by a number
+lines with or without a vowel and the string <M0>
+lines that contain the string <M0> before <M1> 3 times or more
+lines that do not contain the string <M0> or end with the string <M1>
+lines starting with a vowel 2 times
+lines with a vowel before the string <M0> at least zero times
+lines with a character before a letter and lower-case letter
+lines without <M0> , <M1> , or <M2> before <M3>
+lines with words that have no character
+lines with less than 5 of a string <M0> or 'truck
+lines where <M0> appears before a character
+lines that have a capital letter preceded by a character , and contain words
+lines with the string <M0> and starting in a capital letter
+lines with a letter and strings <M0> before <M1>
+lines starting with a number , a capital letter or a lower-case letter
+lines having the string <M0> , 'truck , or <M1> before a vowel
+items without a character preceding <M0> .
+lines with a capital letter before ending with the string <M0> at least zero times
+lines ending with string <M0> before containing a capital letter
+lines with a vowel at least once or containing the string <M0> in them
+lines with the string <M0> and letter after a lower-case
+lines that don't contain the string <M0>  or end with a capital letter .
+lines with words with ending with a capital letter which is followed by a vowel
+lines ending in a number or capital letter
+lines with a capital letter , 7 or more times before a lower-case letter in them
+items with <M0> , <M1> , or numeral preceding a small letter .
+lines that does not have a letter or that starts with string <M0>
+items with a vowel preceding a numeral at least 7 times .
+lines with a capital letter , character , or the string <M0>
+lines with <M0> , a letter , or a number before <M1>
+lines with words that have a letter , a capital letter , and a lower-case letter
+lines with words that don't have a letter , vowel , or string <M0>
+lines that do not have a character or the string <M0>
+items with a small letter or <M0> preceding an upper case letter .
+lines with a number and <M0> before <M1>
+lines containging the string <M0> or the string <M1> , twice or more times followed by a character
+lines with a lower-case letter or letter , 7 or more times
+lines not containing followed by the string <M0> and <M1>
+lines containing the string <M0> or a lower-case letter at least 2 times
+lines with a number before lower-case letter or character
+lines with words and a character before string <M0> and <M1>
+a capital letter followed by a vowel before a letter appears in the lines
+lines with a character before a lower-case letter and the string <M0> , zero or more times in them
+items with a character preceding a numeral at least 4 times .
+lines which are containing a character or a letter
+lines without a letter with 5 or more of the string <M0>
+lines that have a vowel or a character have a number before them
+lines with a character before capital or lower-case letter
+items with an upper case letter preceding <M0> preceding a character .
+lines with a number after a character at least zero times
+lines not ending with a character followed by string <M0>
+lines with a lower-case letter preceding a character at least 6 times
+lines with a lower-case letter , character , or vowel
+lines that do not have a capital letter or a number
+items with a vowel preceding an upper case letter preceding a letter .
+lines not containing a vowel or a letter
+lines containing 2 or more lower-case letters
+items with an upper case letter or character at least6times .
+items with a letter preceding <M0> at least thrice .
+lines with a lower-case after a vowel 1 or more times
+lines with a number before the string <M0> or <M1>
+lines containing a lower-case letter followed by 3 or more characters
+lines that contain a letter followed by a vowel , zero or more times
+lines containing a number followed by a vowel , zero or more times in them
+lines with a lower-case letter , number , or character before string <M0>
+items with a vowel preceding a terminating character .
+lines ending in words with a lower-case letter
+lines ending with <M0> or a lower-case letter
+lines with words with either a capital letter , character , or string <M0> before string <M1>
+lines with a 5 or more of a capital letter and vowel or a letter
+lines that have a number that follows the string <M0>
+lines with a letter and the string <M0> before a lower-case letter in them
+lines with words with string <M0> or starting with vowel
+lines ending in words starting in vowel
+items with a small letter , <M0> , and numeral preceding a character .
+items with a character and a letter preceding a numeral .
+lines with a character before vowel 3 times
+lines with a lower-case letter , a capital letter , and a letter
+lines with a character at least once or not the string <M0> in it
+lines that do not have a character , a letter , or a lower-case letter
+lines ending in a character before lower-case letter and vowel
+lines ending with the string <M0> or a capital letter at least 4 times
+lines with 4 or more of the string <M0> ending in vowel
+lines which contain the string <M0> followed by a character and a number , zero times or more
+lines that do not contain a number , a character , or the string <M0>
+lines with the string <M0> or not a capital letter , zero or more times in them
+lines with a number , 5 or more times before the string <M0> in it
+lines using dog in the lowercase at least 7 times
+lines which are ending with the string <M0> or the string <M1>
+lines with 6 or more of a character before a capital letter
+lines with character or string <M0> before vowel
+items with any letter preceding an uppe case letter .
+lines that have a lower-case letter after a vowel
+lines ending with words with a character 6 times
+lines with a character followed by 3 or more of the string <M0>
+lines that must have a capital letter , a letter , and the word <M0> preceding a character
+lines that contain a lower-case letter , a character , or the string <M0> followed by a capital letter
+lines without the string <M0> or capital letter
+lines with the word <M0> listed at least 7 times followed by a lower-case letter
+lines with words with ending with lower-case letter or letter
+lines which have  a number or capital letter
+lines beginning with the string <M0> 4 or more times
+lines with the string <M0> or zero or more of a vowel
+lines that contain 4 or more times the string <M0>
+lines without a number before string <M0> then a capital letter
+lines that do not contain a number , the string <M0> , and a capital letter
+lines ending with zero or more characters or numbers
+lines with a capital before vowel or character
+lines ending in numbers .
+lines which are containing the string <M0> , a lower-case letter , and a letter
+lines not ending in a letter
+items beginning with a character preceding a vowel .
+lines that start with 5 or more numbers
+lines that have a lower-case letter or number followed by a character
+lines with vowel and number before capital letter
+lines with either no occurence or at least 1 occurence a character before a vowel
+lines ending with number followed by vowel , 5 or more times
+lines containing the string <M0> or a number followed by a vowel
+lines with a lower-case letter before a character
+lines with words that don't contain the string <M0> followed by the string <M1>
+items beginning with a small letter at least 1 time .
+lines with the string <M0> before a character with a capital letter
+the lines must have a vowel and a letter before a number .
+lines ending in string <M0> with a letter
+lines with a letter before vowel
+lines featuring words either with the <M0> string or without the <M1> string
+lines that contain a letter and the string <M0>
+lines with words and only at least 1 character
+lines beginning with or without a character and a lower-case letter
+lines having character , string <M0> , and capital letter before string <M1>
+lines which are starting with words with not a letter
+lines with 3 or more of a characters before lower-case letters then a vowel
+lines that have a number followed by the word <M0> , the word <M1> , and a vowel
+lines beginning with a number or a vowel preceding the string <M0>
+lines with words without a number
+lines that have either the string <M0> , a lower-case letter , or a number
+vowel followed by a capital letter .
+lines starting in a capital or lower-case letter
+lines with words and a letter
+lines with words and a character , capital and lower case letters
+4 or more with words which contain a vowel followed by a number
+lines with 7 digits
+lines that have a lower-case letter before the string <M0> and then at least once capital letters
+lines that have a character , a lower-case letter , and the string <M0> , all before a capital letter
+lines with at least 2 number or vowels
+lines with a number before only a letter
+lines without lower-case letters
+lines without any letters .
+lines with words and a number and capital letter
+lines that have a letter or the string <M0> 7 or more times
+lines with the string <M0> or ending with zero or more of a  letter
+lines ending with a lower-case letter before a letter
+lines with a character before the string <M0> then a letter
+lines with number followed by letter before lower-case letter
+items with an upper case letter preceding a character .
+lines that 4 or more times contain either an uppercase or lowercase letter
+lines containing a vowel that is not preceded by the string <M0>
+there must a vowel coming after a character in the lines
+lines having a vowel or a capital letter
+lines with a capital letter followed by a lower-case letter 7 times or more
+lines containing the string <M0> or a lower-case letter at least 3 times
+lines with numbers at least 6 times having a vowel
+lines with a lower-case or capital letter
+lines with lower-case letter or number , 4 or more times
+lines containing either a letter , character , or a capital
+lines that does not the string <M0> or a character
+lines that have a letter in them either 4 times or more than that
+items with a letter at least 4 times .
+lines with the string <M0> before a vowel or string <M1>
+lines that have a character 6 or more times
+lines not having string <M0> before capital letter at least once
+lines ending in 6 or more of a vowel or letter
+lines with a letter and a vowel , capital letter , or string <M0>
+lines do not contain a character , a lower-case letter , or a number
+lines cannot include a character or lower-case letter or number
+lines with words with string <M0> , a letter , and lower-case letter
+lines that start with a capital letter and contain a vowel
+lines with character , 4 ore more times before string <M0>
+lines containg words that begin with a character or letter
+items with a numeral preceding <M0> preceding a small letter .
+lines without a vowel and a number
+lines starting with lower-case letter , 6 or more times
+lines containing a vowel not before the string <M0>
+lines that have 3 or more words that end in a letter
+lines with a lower-case letter coming before the string <M0> followed by a letter
+lines that have an uppercase letter , a character and the string <M0>
+lines with zero or more capital letters before a character
+lines with a vowel and string <M0> before <M1>
+lines with words and a letter and vowel
+lines containing a letter before 7 or more capital letters
+the string <M0> appears before a number and a lower-case letter in the lines
+items with <M0> or an uppercase letter or letter preceding a character .
+lines containing the string <M0> preceded by a number or a vowel
+lines with lower-case letter before either character , vowel , or string <M0>
+lines containing a lower-case letter or string <M0> at least once

@@ -1,0 +1,824 @@
+lines which do not contain the letter 'e'.
+lines that contain only the letters 'agde'.
+lines using words  ending in 'er'.
+lines which contain only lowercase letters.
+lines that contain the word 'dance'
+lines with words that contain 3 vowels.
+lines which have 'bar'
+lines using a word that ends in 'spoon'
+lines that include three capital letters
+lines using words that begin with 'z'.
+lines that have at least 5 numbers.
+lines that ends with letter 'f'
+lines using a word that contains the letters 'der'
+lines using only three words
+lines starting with 'uu' followed by words starting with 'z'.
+lines that have 2 words using 4 letters
+lines that have words ending in 'ing'
+lines which contain the word 'black' and the letter 'z'.
+lines that contain the number '254' at least twice.
+lines containing the word 'art'
+lines with a word ending in 'aought' that contain only one word
+lines which contain only an uppercase letter
+lines that contain at least one numeric in it.
+lines that end in an 'o'
+lines that have all the letters 'a' , 'b' and 'c'
+lines having words ending with 'ne'.
+lines that contain 'World War II' and contain 'casualties'.
+lines that contain the numbers '9', and '10'
+lines with the word 'Triple' followed by words that start with 'X'
+lines using 'su' after 'son' or 'soon'.
+lines that utilize words starting with 'do'.
+lines using 'q' before 'r'
+lines containing a word using the letters 'tt'.
+lines using more than 1 character
+lines that contain words with 'ru'.
+lines containing a word using 'ause' 
+lines containing instances of 'JFK' found after 'ABC'
+lines that contain at least three words and at least one number.
+lines that contain numbers
+lines using the word 'going' followed by 'd'.
+lines that have 'sandwich' but not the word 'ham'
+lines containing words starting with 't'.
+lines that contain words ending in 'g'
+lines that contain words ending with vowels.
+lines that use words starting with 's'.
+lines using 2 words or more
+lines using the word 'piggy' and 'his mother'.
+lines that have 5 characters and no vowels.
+lines that contain at least one vowel and at least two numbers.
+lines using at least 3 characters
+lines that contain the phrase 'city of'.
+lines that contain between two to seven words.
+lines that use words starting with 'ga'.
+lines any words beginning with the letter 'k'.
+lines containing any number with an '8' in it.
+lines which contain only the number '3'.
+lines that contain words starting with 'pa'.
+lines that contain only three words.
+lines that mention 'Dylan' in the same line as 'Lynda'.
+lines containing 'foo' or 'nu' before 'dist' or 'dust' 
+lines where the number '0' appears
+lines that feature 'email' followed by the word 'spam'.
+lines that have within them words ending in 'ch'.
+lines using the word 'clue'
+lines that contain 'news' before 'paper' or 'show'.
+lines that do not contain the word 'foo'
+lines using 'min' before 'imal'
+lines that include the string 'rst'
+lines that contain at least two words starting with 'h' in them.
+lines using the word 'An' at least once.
+lines that begin with a number
+lines that have words ending with 'ti'.
+lines that do not contain the character 'x'
+lines using words containing 'ope'.
+lines that use words starting with 'bi'.
+lines using 'oon' 
+lines using words beginning with the letter 'g'
+lines containing any mention of the word 'code'.
+lines that contain 5 words
+lines that have a word beginning with th and a number that begins in '7'
+lines that have all of its letters capitalized.
+lines using 'mno' after 'pqr'
+lines where there are two consecutive capital letters
+lines containing a letter
+lines that contain the word 'orange'.
+lines using a word of 5 letters or less.
+lines that have words with 'la'.
+lines that using the symbol '+' or '-'.
+lines that contain the word 'Hindi'.
+lines using words containing 'e' before 'i'.
+lines that have at least one capital letter.
+lines that have at least 3, but not more that 6 words.
+lines that contain 'mix' or 'shake'.
+lines that have 1 word in them
+lines where 'PQR' is between a number and 'LMNO'
+lines that have words with 7 letters.
+lines that have one number
+lines containing 'a' before 'b'
+lines containing 'h', or 'i'
+lines that contain words starting with 'de'.
+lines that include words starting with 'q'.
+lines that mention both 'butterflies' and 'fireflies'.
+lines that contain 'ject' or 'pel'
+lines that carry the word 'Jim' located in between 'Stacks' and 'Slim'.
+lines using at least 5 'd'
+lines that contain at least 2 digits.
+lines using words with 'ca'.
+lines that have only 3 words
+lines that have 2 or more numbers.
+lines that have a 2 letter sequence
+lines that include words starting with 'fe'.
+lines not containing 4 or more characters
+lines that end containing the letter 'z'.
+lines which have three words.
+lines with 'sec' before 'mun'.
+lines that have two or more words ending in 'a'.
+lines that have 6 words.
+lines that do not contain any number
+lines containing 'k', or 'l'
+lines that contain words ending with 'mae'.
+lines that contain words starting with 'h'.
+lines where the  word 'Homer' precedes the word 'Odyssey'
+lines that do not contain the letter 'a'
+lines using the word 'hero'.
+lines that have words starting with 'pi'.
+lines that have words starting with 'kai'.
+Find lines that mention dogs or cats but not any with mice
+lines that use 'a' or 'b' before words ending with 'er'.
+lines starting with 'abc'
+lines using three character words begining with the letters 'CE'.
+lines that contain 3 words and have at least 2 numbers.
+lines using 'abc' after 'def'
+lines which feature the word 'hairy'.
+lines containing the word 'crack'.
+lines that have at least three 'j'.
+lines that have 'turn'
+lines using 'ghi' after 'jkl'
+lines which contain a mix of uppercase letters and lowercase letters
+lines where no word is more than 5 characters
+lines using 'd' in the middle of a word.
+lines using 5 'd'
+lines with capital letters
+lines containing 'e', or 'f'
+lines using a 5 letter sequence
+lines which contain a word starting with 'ch'
+lines that contain words starting with 'po'.
+lines utilizing the word 'law'.
+lines that have only one b.
+lines that have the number '44'.
+lines that contain the letter 'A' followed by a vowel.
+lines that contain words with 'oo'.
+lines which have at least 7 numbers.
+lines which end with 'you' 
+lines that contain words ending with 'ol'.
+lines that contain a digit.
+lines using a word having the string 'der'
+lines that are 20 characters or less
+lines containing a word
+lines that begin with the word 'once'.
+lines that contain words starting with 'ac'.
+lines that have 4 words or less where at least 1 of those words contains the letter sequence 'uin'.
+lines that contain words ending in 'n'
+lines that have 'eye'
+lines that contain three letter words in them.
+lines that contain five letter words.
+lines which do not have 'life'.
+lines which start with a number.
+lines that start with a 'z' and end with an 'a'.
+lines that have instances of a number and a vowel
+lines which have both uppercase letters and lowercase letters.
+lines containing 5 letter words.
+lines that match 'billy' or 'bob'.
+lines which contain five or more 'y'
+lines that include words starting with 'ne'.
+lines containing words that start with 'x'
+lines containing 'ge' or 'an' before 'ger' or 'tra'
+lines that end with 'gh'
+lines which contain 'sorry' 
+lines with 'tch' but not 'wi'.
+lines that start with 'far' 
+lines using words that end in 'y' or 'i'.
+lines that contain the number '2005' and 'May' and begin with 'Mary'.
+lines with an '8' that comes after a '5'.
+lines utilizing words starting with 'w'.
+lines containing words that start with 'th'
+lines that contain 'ig' or 'physics' before 'nobel'.
+lines containing 'st' and containing 'gy' too
+lines that contain the text 'NOW'
+lines that contain the text 'hello'
+lines that contain five words that begin with 'P'.
+lines that have words ending with 'ge'.
+Look for any line with the '@' symbol.
+lines using an instance of 'itch'
+lines containing three vowels
+lines containing 'ers' and containing 'oxy' too
+lines that have more than 6 numbers.
+lines with the word 'Goal' in them.
+lines beginning with 'Therefore'
+lines using 2 or more words containing the letters 'ing'. 
+lines that have the word 'love' preceeding the word 'you'.
+lines which contain a 3 letter string starting with a
+lines starting with a 'T'.
+lines that contain the letters 'ba'.
+lines that are composed of 4 or more words.
+lines using the word 'George' and the number '62'.
+lines utilizing words starting with 'b'.
+lines that use the word 'boom' followed by words starting with 'ka'
+lines that end in a number
+lines that use words with 'ce'.
+lines which have at least 1 numeric character.
+lines that contain at least one word starting with 'q'.
+lines that have 'twist'
+lines containing words that start with and end with 'xyz'
+lines containing 'x' and containing 'y' too
+lines that contain words ending with 'la'.
+lines that have 3 numbers and contain the word 'Columbia'.
+lines that contain at least one number.
+lines that contain words starting with 'ke'.
+lines that contain a word using at most 6 letters
+lines using 'ent' or 'ong'
+lines containing words using a vowel.
+lines with words ending in 'y'.
+lines that contain 2 numbers that contain '19'.
+lines that contain at least 2 capital letters.
+lines containing a 6 letter sequence
+lines where the letter c appears more than one time
+lines which contain only vowels.
+lines that contain words ending in 'i'.
+lines containing 'ast'
+lines using 'the'
+lines containing 'on' and also containing 'off'
+lines that mention 'trolls'.
+lines that contain at least one vowel and at least two numbers
+lines that begin with the word 'the'
+lines that contain words with 'ri'.
+lines which contain 3 or more vowels.
+lines using 3 instances of 'sw'
+lines that contain instances of 'ape', but only if its one of the first three words.
+lines which contain a word starting with the letter 'a' and a word starting with the letter 'z'.
+lines that show 'May' and 'June'.
+lines that use words starting with 'no'.
+lines that contain the text 'this is it'.
+lines that start with 'the'.
+lines that show the letter 'a' and number '5'.
+lines using 'din' after 'e' or 'ky'.
+lines that contain both a 'B' and a 'b'.
+lines that have a '7' in them
+lines using at least 6 characters
+lines that contain the word 'zoo'.
+lines using the vowel combination 'ei'.
+lines containing at least 2 words
+lines containing the word 'run' or the word 'hat'
+lines containing at least 2 characters but not 4 characters or more
+lines with no vowels
+lines using words that contain the letter 'q'.
+lines containing the word 'shoe' and containing the word 'lace' 
+lines using 2 or more words comprised of 5 letters
+lines starting with 're'
+lines that contain 'in' 
+lines using 'ick' 
+lines that contain words starting with 'ki'.
+lines that end in a digit
+lines that have two vowels
+lines having words starting with 'di'.
+lines that contain five vowels
+lines containing 'tt' and containing 'bb' too
+lines that contain the word 'hello' within 5 characters of the word 'world'.
+lines that end with the number '100'.
+lines which begin with the word 'how'
+lines using at least three numerical characters
+lines that do not have the letter 'a'
+lines that contain words ending in 'ch'
+lines that contain the word 'trust'.
+lines which contain the letter 'x' and the letter 'y'
+lines that have a word of 3 letters
+lines that end with 'boby'
+lines that have the word 'couch' included
+lines that contain at least five words.
+lines which have a th after a 'ch'.
+lines which contain the letter 'z' twice.
+lines that end with '2' and contain words that begin with 'Sel'
+lines containing either a 'w' or 's' character.
+lines which contain 2 or more 'q'.
+lines that contain words starting with 'an'.
+lines having words ending with 'fa'.
+lines ending with 'vem'
+lines containing words starting with the letter 'x'.
+lines with 7 or more words
+lines that contain 'jellyfish' and mention 'breeding'.
+lines that contain 5 or more letters
+lines that contain words ending with 'le'.
+lines that contain words and 4 numbers.
+lines that contain words ending with 'd'.
+lines using a word containing the letter 'l'.
+lines containing the word 'inoperative'.
+lines with all words beginning with 'a'.
+lines that end with 'you'.
+lines that contain 4 letter words ending in 's'
+lines which contain the letter 'h' preceded by a letter.
+lines which have the word 'egg'
+lines that contain 'is' or 'it'
+lines using 'ss' between 'a' and 'le'
+lines that have at least two words that start with 's'.
+lines comprised of 5 or more words containing 5 or fewer letters
+lines that contain a number ending with '0'
+lines that end with the word 'free'.
+lines which contain 'ead' or 'pro'
+lines that contain the word 'and'
+lines using 4 letter words
+lines that contain words starting with 'gi'.
+lines that utilize words starting with 'pu'.
+lines that end in 'e'
+lines end in an 'a'
+lines that have at least three words beginning with a vowel.
+lines which contain a 3 letter string
+lines with 'car' between 'try' and 'say'.
+lines that contain the word 'the'
+lines that contain the number '10'.
+lines that contain 6 letter words beginning with the letter 'y'.
+lines that contain a word starting with a vowel.
+lines with 'helper' where the word 'little' comes before 'helper'.
+lines containing an instance of the name 'Beaker'.
+lines which contain 'qu' at the start
+lines that show 'Mr' and 'Mrs' but not 'Ms' or 'Miss'.
+lines that include 'Canada' and 'Mexico' but not 'Cuba'.
+lines which contain a word ending in 'ing'.
+lines that contain 'tumeric' and 'saffron'
+lines that start with 'apartheid'.
+lines containing words that start with 'h' and end with 'e'.
+lines containing both 'ac' and 'dc'
+lines composed with a word
+lines which do not contain a vowel.
+lines using words beginning with the letter 'x'.
+lines containing words that end with 'L'
+lines that contain words beginning in 'p'
+lines that contain the word 'sea' followed by at least one number.
+lines that contain a word containing 5 or more letters.
+lines that contain at least three five letter words
+lines that contain 'ugly' before 'betty' or 'thomas'.
+lines that contain words starting with 'fa'.
+lines that contain 'fu' before 'ba' or 'bar'.
+lines using more than 4 characters
+lines that contain any three vowels
+lines having words ending with 'ta'.
+lines which contain 'I am mad'.
+lines that use words that are only four letters long.
+lines that have five words that all end with the letter 'G'.
+lines containing words that start with 'i'.
+lines containing 'mean' or 'nic' before 'est' or 'test' 
+lines that use words with 'ca'.
+lines that have ten words.
+lines containing 'tain' after 're' or 'per'.
+lines that end in 'o'
+lines that contain 'x' and 'y' but not 'z'.
+lines that end in 'e'
+lines having the letters 'ea'.
+lines that begin with 'The' or 'For'.
+lines that contain the letter 'V' and the number '33'.
+lines starting with 'X' followed by a word with 'oa'.
+lines that end with the letter 'o'
+lines using any instance of 'd' or 'e' followed by 's' or 'r'
+lines that contain a word and five numbers.
+lines where 'TRY' is separated from 'LOL' with a comma
+lines that contin words ending in 'e'.
+lines containing the word 'blog'
+lines using a word
+lines which have 'oo', but no instances of 'o' between the letters 'd' and 'a'
+lines having words ending with 'en'.
+lines that contain three letter words.
+lines using a 3 letter sequence
+lines which contain 'upper' or 'lower' 
+lines that have the word 'sandwich'
+lines ending in 'ia'
+lines that begin with the phrase 'once upon a time'
+lines that utilize the letters 'as'.
+lines that contain the word 'unifax' but not the word 'colorado'.
+lines using the word 'Westbury' next to a number.
+lines with 'helper' and 'little'
+lines that contain digits.
+lines that contain three 'she'.
+lines that contain exactly two words.
+lines using words that begin with 'q' but do not have a 'u'.
+lines that contain words starting with 'du'.
+lines beginning with words that have a vowel as the first letter.
+lines that begin with a numeral
+lines which contain the word 'mobile' but do not contain the word 'phone'
+lines containing words that begin with 'G' and end with 'y'
+lines containing at least 3 words
+lines that have 'JFK' but not 'WAS'
+lines that contain the phrase 'Booyah'.
+lines that contain both the word 'bar' and the word 'stress'
+lines that contain words that have the letter 'e' occuring after the letter 'c'.
+lines that contain 3 numbers and one number contains 1.
+lines which begin with 'omega'
+lines using words ending with 'mo'.
+lines that contain the word 'Boby'.
+lines containing usage of the word 'fried'.
+lines with words that contain 3 letters
+lines that use words ending with 'ot'.
+lines using more than 3 characters
+lines that contain the word 'null'
+lines using a word which contains at least 5 letters.
+lines that use words of at least 9 letters.
+lines that match the words 'and in this life'.
+lines that contain at least 4 words.
+lines using at least 3 'b'
+lines that contain an 'x'
+lines that contain the symbol '-'.
+3 letter lines starting with 'x'
+lines containing 'pol' or 'mi' before 'ist' or 'lk' 
+lines that have at least 2 words of 3 or more letters
+lines that contain '-' between words 'a' and 'lot'.
+lines with words that end in 'n'.
+lines using 'lay' or 'lie'
+lines that show 's' in the beginning of the word  and 't' at the end of the word.
+lines that have 'de' before 'st' and 're' after 'col'.
+lines which contain 5 words starting with 'f'
+lines which mention 'puppy'.
+lines that contain DEF' with a period immediately after it.'
+lines using the word 'intellectual'
+lines containing 'ant'
+lines which have the word 'number' and a number
+lines using words ending with 'on'.
+lines that end with 'bar' and include the phrase 'San Jose'.
+lines that use words starting with 'fu'.
+lines beginning with 'begin'
+lines that contain words ending in 'e'.
+lines that start with a vowel and ends in an 'e'.
+lines starting with the word 'the'.
+lines that contain 1 to 5 numbers and 1 letter.
+lines that end with 'and'
+lines that utilize 'pan' following words starting with 'pe'.
+lines that have the word 'Facebook'
+lines that have words with 're'.
+lines that have 3 or more words containing the letters 'ly'.
+lines with instances of 'ABC' between 'XYX' and a comma
+lines that have a word containing 'a' or 'b'
+lines using the word 'of' or the word 'in' 
+lines containing two or more words containing 'y'.
+lines that contain at least one 'z'
+lines that contain a word using the letters 'ire'
+lines that have 'ser' after 'lin' or 'ku'.
+lines that have three words comprised of 4 characters each.
+lines ending in 'az'
+lines which begin with the letter 'z'.
+lines containing 'ku' after 'mar' or 'is'.
+lines that contain 2 numbers and 3 words and contain the letter 't'.
+lines that include one word using at least 2 letters
+lines that have a capital 'A', but not a lowercase 'a'.
+lines that start with the letter 'e' followed by the word 'jr'.
+lines containing 'b', or 'c'
+lines that contain 'Beaker' but do not contain 'Bunsen'.
+lines where '4' is between '3' and '5'
+lines that contain a word in all uppercase.
+lines which start with the word 'The'
+lines containing 3 or more vowels and 5 or more words
+lines that contain words starting with 'bo'.
+6 letter lines
+lines with 'ock' 
+lines using a capital letter followed by a number
+lines that start with 'ABC' and end with 'TRY'
+lines ending with 'cem'
+lines that contain a number.
+lines that have words ending with a 'g'
+lines that contain 2 repetitions of the word 'a'
+lines that utilize words starting with 'ko'.
+lines that show the text '1:15' and the word 'midnight'.
+lines that contain three or more digits
+lines using 'ness' or 'ed'
+lines that are only comprised of uppercase letters.
+lines using 'lugg' before 'age'
+lines with the word 'and' between 'zyx' and 'cba'
+lines containing the number 11 and the word 'eleven'.
+lines that are composed of the letters 'a', 'b', and 'd'.
+lines that mention 'Randy' and also contain 'fox'
+lines utilizing '!'
+lines that end with vowels.
+lines that have 'ace' after 'pl' or 'tr'.
+lines starting with 'tra'
+lines containing one instance of 'ca' followed by an 'r' or a 't'
+lines where there are exactly two words and 7 characters.
+lines that have 3 words and two numbers.
+lines using words starting with 'fi'.
+lines with 'buck'
+lines containing words which begin with 'c' and end with 'd'
+lines containg the number '9'.
+lines that utilize words starting with 'ni' followed by the word 'knight'
+lines which begin with 'y', has a 'z' in the middle and end in a number.
+lines containing 'tal' and containing 'tel' too
+lines that contain the 'staphyloccus aureus.'
+lines that use 'Jane' but not 'Janet' or '2'.
+lines that contain words starting with 'go'.
+lines that contain only 2 words, and, begin with the letter 'f'.
+lines containing only four words.
+lines which do not contain 'excellent'
+lines that end with 'hey' 
+lines that have no instances of 'old' but at least one instance of 'ion'.
+lines that utilize words starting with 'r'.
+lines using words that end with the letter 'n'
+lines that use numbers.
+lines having words starting with 'fo'.
+lines using words that have 'ire'
+lines that only have 3 words
+lines that contain words starting in 's'
+lines that contain text made up of more than 6 letters total.
+lines that contain the letter 'a' in the middle of a word.
+lines where the letter 'b' appears exactly 4 times
+lines that contain a word  starting with 'l'.
+lines that contain a word with five or more vowels.
+lines which do not begin with an uppercase letter.
+lines which start with 'n' and end with 'y'
+lines that contain at least two words beginging with 'y'.
+lines that have a word containing the string 'ude'
+lines having words with 'ro'.
+lines using 4 or more words
+lines using at least 4 'c'
+lines starting with 'cl'
+lines that contain 'number' written in words.
+lines that have at least 3 words.
+lines which have 3 words.
+lines utilizing the phrase 'this is it'.
+lines that contain words starting with 'ba'.
+lines using the vowel combination 'ou' and 'th'.
+lines which contain 'rh' but do not contain the letter 'y'.
+lines that have any instance of 'ight'.
+lines using the letter sequence 'ably' followed by a word ending in 'ed'.
+lines having words ending with 'lo'.
+lines that feature 'c' or 'd' before words that start with capital letters.
+lines using 'foo' between 'car' and 'cop'
+lines that list the word 'Bean'.
+lines which have at least one word which has six or more letters.
+lines containing vowels
+lines starting with 'sign'
+lines that utilize words starting with 'ab'.
+lines that contain numbers.
+lines containing 4 words.
+lines that have three numbers between 'abc' and 'def'.
+lines that use 'native' and 'tribes'.
+lines that does not contain any vowels.
+lines that have 5 or more words of 3 or fewer letters.
+lines that contain a '?' or an '!'.
+lines that begin with a number
+lines that contain at least 2 digits.
+lines that use a numerical number.
+lines that contain words using 'ie'
+lines that contain 'fast' and contain '2'
+lines where there is only one word.
+lines containing only a letter
+lines containing the word 'country'
+lines that have words containing 'ei'
+lines that contain words ending in 'os'
+lines that have words ending in 'ing'.
+lines that include both 'cake' and 'candles'.
+lines using 1 number and 2 letters
+lines using five letter words.
+lines containing 'sing' or 'sung'
+lines using 6 instances of 'fu'
+lines that have at least 6 characters
+lines that have six letter words ending in 'th'.
+lines containing the word 'pray' at the end.
+lines that contain 5 numbers and 2 words that contain 'ly'.
+lines that utilize only three words
+lines using 'Bill' or 'bill'
+lines that have no vowels.
+lines that have a number in them
+lines that contain 7 or more words
+lines using words starting with 'be'.
+lines that use words ending with 'at'.
+lines which mention 'Pat' with the word 'turkey'.
+lines that have a number, but only if it is followed by 'ABC'
+lines that contain two words that have two letters.
+lines that end in 'y' and begins in 'a'.
+lines that match to the text 'I went into'.
+lines which end with 'hula' 
+lines that begins with the word 'total'.
+lines using the word 'God'.
+lines that utilize words starting with 'bu'.
+lines that contain 'Freddie Mercury' and contain 'AIDS'.
+lines that are composed of 5 words or less where at least one word begins with the letter 'k'.
+lines that contain three words that start with the letter 'Y'.
+lines that contain a 3 letter word and a 2 letter word.
+lines that contain a word starting with 'a' and ending with 'a'
+lines that start with words containing 'w'.
+lines that use the number '33'.
+lines which start with 'alpha'
+lines that have only two words in them.
+lines that contain 4 or more 'b'
+lines containing words using the letters 'ers'.
+lines which have instances of 'tch'.
+lines using the string 'gue'
+lines that have 'aba' between 'bcb' and 'cbc'
+lines containing the country name 'New Zealand'.
+lines which contain both 'i' and 'e' but no instances of 'u'.
+lines that contain a number and contain a 3 letter word.
+lines which start with 'start'
+lines using 'ox' before 'en'
+lines containing 'l' before 'y'
+lines that begin with 'a' and end with 'z'
+lines containing 'lake' and containing the word 'house'
+lines using 5 or more words.
+lines that contain words with at least 3 vowels
+lines that have 'eak' after 'red'
+lines containing the word 'preordained'.
+lines that feature the word 'moot', and at least 3 words of 6 letters or more.
+lines using 2 instances of 'irl'
+lines that contain 4 or more capital letters
+lines that end with 'after' 
+lines that contain four letter words.
+lines that start with 'iffl' 
+lines that contain 'on' 
+lines that begin with a number and end with 'street' or 'avenue'.
+lines with vowels
+lines using 'lives', 'lifes', or 'life'
+lines that contain the text 'then I said'.
+lines that contain the word 'movie' in them.
+lines that have less than 6 words but more than 3 words.
+lines using at least 2 instances of 'ly'
+lines containing words that start with 'fa'
+lines containing 'GHF', but not 'JFK'
+lines which have words beginning with 'H'.
+lines where there is at least one word in which 'e' follows 'i'
+lines having words ending with 'te'.
+lines that contain words that end in 'y' that do not begin with 'w'
+lines that contain 5 or more words.
+lines that contain words ending in 'az'
+lines that contain any numbers.
+lines utilizing the number '1'.
+lines that use the word 'white'
+lines which do not have numbers.
+lines that end with numbers.
+lines containing words that  have 5 letters in them.
+lines with instances of 'at'.
+lines which contain 'x' and 'y'.
+lines that do not use the word 'the'
+lines that contain either of 'y' or 'z'
+lines using three letter words.
+lines containing the word 'laughing'.
+lines containing the word 'trade'.
+lines where the word 'and' appears between the words 'sand' and 'tide'
+lines with numbers
+lines that contain a period after a number, but only if before 'ABC'.
+lines that contain at least 2 vowels in a word.
+lines that have two words containing 5 or more letters.
+lines using 'life' or 'lives'
+lines that have 4 characters
+lines that end in '!' but do not contain 'surprise'.
+lines with three numbers and the word 'kitten'.
+lines that have no letters.
+lines using 'art' or 'led'
+lines containing the word 'house'.
+lines that utilize the number '7'.
+lines using 3 instances of 'b'
+lines that include words with 'ra'.
+lines having words ending with 'oo'.
+lines that contain 3 words.
+lines using 7 'f'
+lines that contain the word 'bar'
+lines that contain 'wig' after 'er' or 'let'.
+lines that contain words using the letters 'ant'
+lines that ends with 'ABC' and contain two numbers.
+lines containing only one word
+lines that contain the text, 'New York'.
+lines using the word 'hurry' followed by the word 'up'.
+lines which do have numbers.
+lines that utilize the '$' symbol.
+lines where there are three characters between instances of 'ABC' and 'WEX'
+lines containing 'oo' and 'at'.
+lines that have more than 5 words ending with a 'c.'
+lines containing 'left' and also containing 'right'
+lines that contain 'dre' or 'ber'
+lines using a 3 letter sequence starting with 'n'
+lines that start with the letter 'c'
+lines with 'un' 
+lines that have 'oe'.
+lines that do not contain a number.
+lines containing 'ch' or 'dh'
+lines that contain 'tran' and the word 'nguyen'.
+lines containing '8' and containing a '3' as well.
+lines that have the letter 'X' at the end of a word.
+lines using at least 4 characters
+lines that have the word 'laugh', and at least 1 number.
+lines that contain the words 'the' and  'cold'.
+lines using 'pid' immediately after 'stu'
+lines that start with 'news' 
+lines in which there are words that begin with 'th'.
+lines that begin with the word 'Topo'.
+lines that contain words using aught in them.
+lines that use 'mo' followed by words starting with 'fo'
+lines utilizing the number '2'.
+lines that contain at least one vowel in each word.
+lines ending with 'fer'
+lines composed of at least 3 words of 4 or more letters
+lines that have at least five words that start with a vowel.
+lines that use the '@' symbol
+lines that have three words of five letters each.
+lines that begin with the word 'the'.
+lines of 6 characters that end with the letter 's'.
+lines that contain the word 'tron' but not 'bot'.
+lines that have 'efg' followed by the word 'car'
+lines that contain words starting with the letter 'g'
+lines that contain 5 or less words that have 4 or more letters where one of those letters is an 'a'.
+lines that contain words starting with 'da'.
+lines that have the numbers '12345' and '54321'.
+lines that have words that start with 'b'.
+lines that contain at least one word without any vowels.
+2 letter lines
+lines using words that end with a vowel.
+lines that have words ending with 'as'.
+lines using at least 5 characters
+lines where numbers exist only after a sequence of 'ABC' and 'XYZ'
+lines with 'bit' and not 'ch'.
+lines which have 'ing' and 'out' but not 'sh' or 'cl'.
+lines that start with 'A' or An
+lines using more than 5 characters
+lines which contain multiple quoted words.
+lines that contain the word 'Kelly' but do not contain the word 'Chris'.
+lines that only contain vowels.
+lines that have words ending in 'ing' or 'est'.
+lines with 'Quasi' as a stand alone word.
+lines containing the word 'tag'.
+lines containing both letters and numbers, but no capitals.
+lines using at least two numbers, 'aby', and 'oz'.
+lines that utilize the number '1'
+lines containing the letter 'z' but not the letter 'q'.
+lines containing 3 letter words starting with 'z' 
+lines using a word starting with a vowel and ending with 'y'
+lines that use words ending in 'g'
+lines with words matching the word 'fur'.
+lines that start with 'an'
+lines utilizing words with 'be'.
+lines in which all words start with the letter 'a'.
+lines that begin with a vowel and end with a vowel
+lines that contain words starting with 'na'.
+lines that mention 'fireflies' but not 'butterflies'.
+lines having the letter 'x'.
+lines which contain 'q' and 'u'
+lines using 'ly' or 'ny'
+lines that start with 'Transport One' and end in a number.
+lines that end with '...'
+lines containing 3 or more ';' 
+lines that contain 'I' in each word.
+lines that contain the phrase 'bedrock' or 'yabadabadoo'.
+lines that contain words starting with 'ge'.
+lines containing words that end with s.
+lines using words which have a vowel.
+lines using 'an' before 'imal'
+lines that contain 'if' before 'then' or 'else'.
+lines using words that begin with the letter 'G'.
+lines containing words ending with 'mie'.
+lines that start with 'gates' 
+lines composed of 3 or more characters
+lines that start with 'Al' but do not contain any numbers.
+lines using words ending in 'ness'
+lines with words that end with 'ca' before words that end with 'att'
+lines that contain words with 'ci'.
+lines containing words ending in 're' 
+lines that use only four words
+lines ending with the letter 'f'
+lines that end in 't'
+lines that start with the letter 't'.
+lines containing a 5 letter word beginning with 't'
+lines ending with 'uns'
+lines ending with 'end'
+lines that contain 'day' or 'to'
+lines that contain at least one word and the number '12'
+lines ending with 'wrench' that use the word 'monkey'.
+lines that contain at least one digit.
+lines starting and ending with 'a'
+lines that have 'car'
+lines of words whose last letters are 'ing'.
+lines beginning with the letter 's' and ending with the letter 'y'
+lines that use words ending with 'es'.
+lines that have 3 characters after the first vowel
+lines ending in 'z' preceded by a word that ends in 'nt'
+lines using the word 'day' followed by the letters 'abc'
+lines that contain words starting with 'gu'.
+lines that have the word 'pray'.
+lines that contain words between 'I' and 'you'
+lines that contain 3 words with at least 1 number in between the 1st and 3rd word.
+lines containing the text 'and so it came to pass'
+lines with 'helper' where the word 'little' does not appear before 'helper' in that line.
+lines that have a word ending with the letters 'ked'.
+lines that each begin with a vowel
+lines ending in 'fuzz'
+lines using 6 'e'
+lines that contain words starting with a vowel and ending with a vowel.
+lines that contain words using 'oo' in them.
+lines which contain 'out' 
+lines using words ending with 'tu'.
+lines having 'sh' after 'wi' and 'st' before 'ar'.
+lines that start with the word 'The'
+lines that contain more than five words.
+lines that do not contain the letter 'c'.
+lines starting with 'the'
+lines that contain words ending with a vowel.
+lines that contain at least one word which is 8 characters or longer
+lines that contain words ending with 'el'.
+lines containing words that end with 'P'
+lines using a word which has uppercase letters and has lowercase letters
+lines that contain words with 're'.
+lines that start with the letter 'a' and end with the letter 'c'
+lines that have three characters before the sequence 'SBC'
+lines using the letter pair 'no'
+lines containing 3 or more vowels.
+lines which contain a word using 2 or more letters
+lines that contain 'er' at the end of every word.
+lines using 4 instances of 'ug'
+lines that do not have 'the' in them
+lines containing at least one uppercase letter, and at least one lowercase letter
+lines that contain the phrase 'Wednesday' but not 'Sunday'.
+lines containing the word 'revolution'.
+lines ending with 'xyz'
+lines that contain a nine letter word.
+lines with fox that do not contain the word chicken.
+lines utilizing words ending with 'fe'.
+lines that do not have any word consisting of 4 letters.
+lines which start with 'oocl' 
+lines that do not contain numerical characters.
+lines using 'gophers' and containing the words 'grass' and 'seeds'.
+lines containing 'annou' and 'irth' that do not have a 'c' anywhere.
+lines using 'x' before 'z'
+lines beginning with the letter 'f'
+4 letter lines
+lines using numbers that show two or more '0'.

@@ -1,0 +1,618 @@
+lines that contain at least 1 digit .
+lines that contain the phrase <M0> but not <M1> .
+lines containing the letter <M0> but not the letter <M1> .
+lines that contain words ending with <M0> .
+lines that end with <M0> .
+lines that utilize words starting with <M0> .
+lines using <M0> before <M1>
+lines that contain a digit .
+lines containing 1 instance of <M0> followed by an <M1> or a <M2>
+lines containing words ending with <M0> .
+lines where the word <M0> appears between the words <M1> and <M2>
+lines that end in <M0> but do not contain <M1> .
+lines that have <M0>
+lines that contain words starting with <M0> .
+lines that contain the word <M0> .
+lines where <M0> is between a number and <M1>
+lines that contain the phrase <M0> or <M1> .
+lines that begin with the phrase <M0>
+lines that use words starting with <M0> .
+lines that start with <M0>
+lines using the letter sequence <M0> followed by a word ending in <M1> .
+lines that have 4 characters
+lines which feature the word <M0> .
+lines of words whose last letters are <M0> .
+lines with <M0>
+lines using <M0> after <M1>
+lines that contain <M0> and <M1> but not <M2> .
+lines that utilize only 3 words
+lines containing usage of the word <M0> .
+lines that utilize words starting with <M0> .
+lines that start with <M0> or An
+lines using <M0> after <M1> or <M2> .
+lines that contain the letter <M0> followed by a vowel .
+lines where no word is more than 5 characters
+lines using words beginning with the letter <M0> .
+lines using 4 letter words
+lines that contain 3 words that start with the letter <M0> .
+lines that have at least 5 words that start with a vowel .
+lines containing words starting with <M0> .
+lines that contain <M0> before <M1> or <M2> .
+lines that have <M0> between <M1> and <M2>
+lines that contain words ending in <M0> .
+lines using <M0> after <M1>
+lines containing the word <M0>
+lines that have words that start with <M0> .
+lines using a word containing the letter <M0> .
+lines using more than 4 characters
+lines using the word <M0> followed by the word <M1> .
+lines which contain only the number <M0> .
+lines that are only comprised of uppercase letters .
+lines that contain 5 words that begin with <M0> .
+lines which contain a 3 letter string
+lines that have 3 numbers between <M0> and <M1> .
+lines using words that end in <M0> or <M1> .
+lines containing the word <M0>
+lines which contain <M0> or <M1>
+lines that contain the word <M0>
+lines that contain words with <M0> .
+lines that contain words ending with <M0> .
+lines that have the word <M0>
+lines that use the number <M0> .
+lines that include both <M0> and <M1> .
+lines using <M0> in the middle of a word .
+lines not containing 4 or more characters
+lines that contain a <M0> or an <M1> .
+lines that contain the word <M0> .
+lines that contain at least 1 vowel and at least 2 numbers .
+lines that have at least 3 , but not more that 6 words .
+lines using at least 4 characters
+lines which begin with the word <M0>
+lines starting and ending with <M0>
+lines that contain the text , <M0> .
+lines containing words that start with <M0>
+lines that contain words starting with <M0> .
+lines using <M0> or <M1>
+lines that contain any numbers .
+lines that contain the <M0>
+lines that match <M0> or <M1> .
+lines that have the word <M0>
+lines using <M0> or <M1>
+lines that contain <M0> or <M1> .
+lines where <M0> is between <M1> and <M2>
+lines that contain words ending with <M0> .
+lines containing an instance of the name <M0> .
+lines that end in <M0>
+lines that carry the word <M0> located in between <M1> and <M2> .
+lines that contain a 3 letter word and a 2 letter word .
+lines with the word <M0> followed by words that start with <M1>
+lines that end in a number
+lines in which there are words that begin with <M0> .
+lines which contain only vowels .
+lines that contain text made up of more than 6 letters total .
+lines that contain words ending in <M0>
+lines using the word <M0> or the word <M1>
+lines that end with <M0> and contain words that begin with <M1>
+lines that have 1 word in them
+lines containing <M0> after <M1> or <M2> .
+lines that contain a word starting with <M0> and ending with <M0>
+lines containing either a <M0> or <M1> character .
+6 letter lines
+lines that contain 3 <M0> .
+lines that have words ending with a <M0>
+lines containing 5 letter words .
+lines that have 3 words comprised of 4 characters each .
+lines using words that have <M0>
+lines that have <M0>
+lines containing at least 2 words
+lines that use words ending with <M0> .
+lines containing the word <M0> and containing the word <M1>
+lines that have the word <M0> included
+lines that contain words ending with a vowel .
+lines that contain <M0> and the word <M1> .
+lines containing <M0> after <M1> or <M2> .
+lines that do not contain the character <M0>
+lines using at least 4 <M0>
+lines that do not have any word consisting of 4 letters .
+lines which contain <M0> but do not contain the letter <M1> .
+lines that have a word of 3 letters
+lines which have 3 words .
+lines using <M0> between <M1> and <M2>
+lines where the word <M0> precedes the word <M1>
+lines with capital letters
+lines which have a th after a <M0> .
+lines that have a word beginning with th and a number that begins in <M0>
+lines that contain at least 1 word starting with <M0> .
+lines which mention <M0> with the word <M1> .
+lines with <M0>
+lines containing the word <M0> .
+lines that end with <M0>
+lines that contain 3 or more digits
+lines that contain <M0> in each word .
+lines with <M0> but not <M1> .
+lines that end in <M0> and begins in <M1> .
+lines using the word <M0> and the number <M1> .
+lines that have no letters .
+lines which start with <M0> and end with <M1>
+lines that end with numbers .
+lines that do not contain numerical characters .
+lines that have 3 words of 5 letters each .
+lines that contain a word using at most 6 letters
+lines that mention <M0> but not <M1> .
+lines that use words starting with <M0> .
+lines ending with the letter <M0>
+lines that list the word <M0> .
+lines that use words with <M0> .
+lines that contain at least 2 digits .
+lines that contain a period after a number , but only if before <M0> .
+lines that have all the letters <M0>  , <M1> and <M2>
+lines that contain a word starting with <M0> .
+lines containing <M0> or <M1> before <M2> or <M3>
+lines that contain the word <M0> within 5 characters of the word <M1> .
+lines starting with <M0>
+lines that have the word <M0> preceeding the word <M1> .
+lines that end with the word <M0> .
+lines ending in <M0>
+lines that have <M0> after <M1> or <M2> .
+lines which contain a mix of uppercase letters and lowercase letters
+lines containing a word
+lines ending in <M0> preceded by a word that ends in <M1>
+lines containing words that start with <M0>
+lines which contain <M0> and <M1> .
+lines containing <M0> and also containing <M1>
+lines using at least 3 numerical characters
+lines which start with <M0>
+lines using a 5 letter sequence
+lines using words ending with <M0> .
+lines using 7 <M0>
+lines that contain instances of <M0> , but only if its 1 of the first 3 words .
+lines that contain words with <M0> .
+lines that contain only 2 words , and , begin with the letter <M0> .
+lines having words with <M0> .
+lines that utilize words starting with <M0> .
+lines having words ending with <M0> .
+lines using 3 character words begining with the letters <M0> .
+lines utilizing words ending with <M0> .
+lines that begin with <M0> or <M1> .
+lines that include words with <M0> .
+lines that contain the word <M0> in them .
+lines utilizing the phrase <M0> .
+lines using a word of 5 letters or less .
+lines that have 10 words .
+lines that contain words starting with <M0> .
+lines containing <M0> before <M1>
+lines that contain words starting with <M0> .
+lines that contain <M0> and <M1>
+lines starting with the word <M0> .
+lines which have <M0> , but no instances of <M1> between the letters <M2> and <M3>
+lines utilizing words with <M0> .
+lines that contain words ending in <M0>
+lines that contain words ending with <M0> .
+lines using 2 or more words comprised of 5 letters
+lines containing words using a vowel .
+lines that have the numbers <M0> and <M1> .
+lines that contain 5 or less words that have 4 or more letters where 1 of those letters is an <M0> .
+lines that contain 5 words
+lines that match the words <M0> .
+lines using a word which has uppercase letters and has lowercase letters
+lines that have less than 6 words but more than 3 words .
+lines that have words starting with <M0> .
+lines that utilize words starting with <M0> .
+lines using more than 5 characters
+lines composed of 3 or more characters
+lines that end in <M0>
+lines containing only 1 word
+lines that utilize the letters <M0> .
+lines that contain between 2 to 7 words .
+lines that contain <M0> or <M1>
+lines with fox that do not contain the word chicken .
+lines where the letter c appears more than 1 time
+lines which start with a number .
+lines that have a number in them
+Find lines that mention dogs or cats but not any with mice
+lines that contain 7 or more words
+lines where <M0> is separated from <M1> with a comma
+lines that have 2 words containing 5 or more letters .
+lines that contain words starting with <M0> .
+lines that have 3 characters after the first vowel
+lines using numbers that show 2 or more <M0> .
+lines that contain the word <M0> but not the word <M1> .
+lines that contain the word <M0> .
+lines that contain words starting with <M0> .
+lines that show <M0> and <M1> but not <M2> or <M3> .
+lines beginning with <M0>
+lines which contain 5 words starting with <M0>
+lines using words which have a vowel .
+lines using the word <M0>
+lines which contain 5 or more <M0>
+lines containing the word <M0> .
+lines containing words that start with <M0>
+lines that contain 3 words with at least 1 number in between the 1st and 3rd word .
+lines that contain at least 2 words beginging with <M0> .
+lines that contain <M0> or <M1>
+lines containing instances of <M0> found after <M1>
+lines that use <M0> or <M1> before words ending with <M2> .
+lines that only contain vowels .
+lines that contain the number <M0> and <M1> and begin with <M2> .
+lines which start with <M0>
+lines that start with <M0> and end in a number .
+lines using 6 <M0>
+lines that have more than 5 words ending with a <M0>
+lines which have the word <M0> and a number
+lines using at least 3 characters
+lines using <M0> or <M1>
+lines using a word having the string <M0>
+lines which have 3 words .
+lines containing a word using <M0>
+lines using a word
+lines that contain 4 or more capital letters
+lines that feature <M0> followed by the word <M1> .
+lines that have only 3 words
+lines that contain a 9 letter word .
+lines that include words starting with <M0> .
+lines that have 3 characters before the sequence <M0>
+lines that have a word containing the string <M0>
+lines using at least 2 numbers , <M0> , and <M1> .
+lines using at least 2 instances of <M0>
+lines that start with the letter <M0> .
+lines that ends with <M0> and contain 2 numbers .
+lines beginning with the letter <M0> and ending with the letter <M1>
+lines that start with the word <M0>
+lines containing <M0>
+lines that contain numbers .
+lines using 6 instances of <M0>
+lines using an instance of <M0>
+lines that include words starting with <M0> .
+lines that have 2 or more numbers .
+lines using the word <M0> followed by the letters <M1>
+lines using words that contain the letter <M0> .
+lines that contain words starting with <M0> .
+lines that contain words starting with <M0> .
+lines that contain 6 letter words beginning with the letter <M0> .
+lines that contain 1 to 5 numbers and 1 letter .
+lines that have 2 or more words ending in <M0> .
+lines with <M1> where the word <M0> comes before <M1> .
+lines that end with <M0>
+lines that contain either of <M0> or <M1>
+lines that have 3 or more words containing the letters <M0> .
+lines that use <M0> but not <M1> or <M2> .
+lines which contain only an uppercase letter
+lines with words that contain 3 vowels .
+lines that contain at least 3 words and at least 1 number .
+lines using only 3 words
+lines ending with <M0>
+lines where there are 2 consecutive capital letters
+lines where there is only 1 word .
+lines containing the word <M0>
+lines that have words containing <M0>
+lines containing words ending in <M0>
+lines that contain words starting with <M0> .
+lines which do not contain <M0>
+lines using 2 words or more
+lines that do not use the word <M0>
+lines containing 3 or more vowels and 5 or more words
+lines that contain 5 numbers and 2 words that contain <M0> .
+lines containing any number with an <M0> in it .
+lines beginning with words that have a vowel as the first letter .
+lines that contain the symbol <M0> .
+lines which contain the letter <M0> twice .
+lines that using the symbol <M0> or <M1> .
+lines with words that end with <M0> before words that end with <M1>
+lines that have a 2 letter sequence
+lines that begin with a vowel and end with a vowel
+lines that start with the letter <M0>
+lines that do not contain the letter <M0> .
+lines having words ending with <M0> .
+lines that contain <M0> written in words .
+lines that contain only 3 words .
+lines that contain <M0> at the end of every word .
+lines that contain the letter <M0> in the middle of a word .
+lines using a word that ends in <M0>
+lines that contain <M0>
+lines using words ending in <M0> .
+lines that contain <M0> after <M1> or <M2> .
+lines where there are 3 characters between instances of <M0> and <M1>
+lines in which all words start with the letter <M0> .
+lines that contain <M0> before <M1> or <M2> .
+lines that do not contain the word <M0>
+lines that end with the letter <M0>
+lines starting with <M0>
+lines using <M0> or <M1>
+lines end in an <M0>
+lines which contain only lowercase letters .
+lines that end containing the letter <M0> .
+lines composed with a word
+lines containing the word <M0> at the end .
+lines that contain an <M0>
+lines that contain <M0> between words <M1> and <M2> .
+lines that have words ending with <M0> .
+lines with the word <M0> between <M1> and <M2>
+lines comprised of 5 or more words containing 5 or fewer letters
+lines using words that begin with <M0> .
+lines that contain words ending in <M0> .
+lines containing vowels
+lines using the word <M0> .
+lines that contain the phrase <M0> .
+lines that use a numerical number .
+lines using more than 1 character
+lines using words ending in <M0>
+lines that contain the number <M0> .
+lines which do have numbers .
+lines containing 3 vowels
+lines that contain words starting with <M0> .
+lines which start with the word <M0>
+lines containing <M0> and containing <M1> too
+lines which contain a word starting with <M0>
+lines that start with words containing <M0> .
+lines that contain the word <M0>
+lines that contain words starting with <M0> .
+lines ending with <M0>
+lines which have <M0> and <M1> but not <M2> or <M3> .
+lines using <M0>
+lines starting with a <M0> .
+lines containing the number 11 and the word <M0> .
+lines ending with <M0>
+lines that match to the text <M0> .
+lines that include words starting with <M0> .
+lines containing words that end with <M0>
+lines composed of at least 3 words of 4 or more letters
+lines which mention <M0> .
+lines that contin words ending in <M0> .
+lines that contain the word <M0>
+lines which contain the letter <M0> and the letter <M1>
+lines that contain <M0> or <M1>
+lines having words ending with <M0> .
+lines using the word <M0> at least once .
+lines with 7 or more words
+lines that have <M0> after <M1>
+lines that contain 4 letter words .
+lines containing the word <M0> or the word <M1>
+lines which contain <M0> at the start
+lines ending in <M0>
+lines using 5 letter words .
+lines that contain <M0> before <M1> or <M2> .
+lines using the letter pair <M0>
+lines with all words beginning with <M0> .
+lines using words that begin with <M0> but do not have a <M1> .
+lines starting with <M0>
+lines using the word <M0> and <M1> .
+lines that contain words with at least 3 vowels
+lines that contain words starting with <M0> .
+lines which contain <M0>
+lines containing words using the letters <M0> .
+lines that end in <M0>
+lines that contain the text <M0>
+lines which contain the letter <M0> preceded by a letter .
+lines that have only 1 b .
+lines that have at least 3 <M0> .
+lines containing <M0> and containing <M1> too
+lines that have <M0> but not the word <M1>
+lines that contain both a <M0> and a <M1> .
+lines that contain the text <M0> .
+lines using a word that contains the letters <M0>
+lines using the string <M0>
+lines that use the <M0> symbol
+lines containing <M0> , or <M1>
+lines that mention <M0> and also contain <M1>
+lines that feature the word <M0> , and at least 3 words of 6 letters or more .
+lines that contain 3 letter words in them .
+lines ending with <M0>
+lines where the number <M0> appears
+lines that do not have the letter <M0>
+lines that contain <M0> and mention <M1> .
+lines that contain words starting with a vowel and ending with a vowel .
+lines using 2 or more words containing the letters <M0> .
+lines which have both uppercase letters and lowercase letters .
+lines starting with <M0> followed by words starting with <M1> .
+lines that contain words ending in <M0>
+lines that end with <M0> and include the phrase <M1> .
+lines that do not contain any number
+lines that use words starting with <M0> .
+lines having words starting with <M0> .
+lines that contain words starting with the letter <M0>
+lines that contain words beginning in <M0>
+lines that have instances of a number and a vowel
+lines that have words starting with <M0> .
+lines that contain 3 numbers and 1 number contains 1 .
+lines containing words that have 5 letters in them .
+lines that contain the numbers <M0> , and <M1>
+lines using words with <M0> .
+lines using 3 letter words .
+lines using words beginning with the letter <M0>
+lines containing the word <M0> .
+4 letter lines
+lines that contain at least 1 word without any vowels .
+lines that start with <M0> but do not contain any numbers .
+lines that have no vowels .
+lines containing the country name <M0> .
+lines that contain <M0> before <M1> or <M2> .
+lines that contain more than 5 words .
+lines having the letters <M0> .
+lines that contain <M0>
+lines that mention <M0> .
+lines using words containing <M0> before <M1> .
+lines which begin with <M0>
+lines that include <M0> and <M1> but not <M2> .
+lines that utilize <M0> following words starting with <M1> .
+lines which have at least 1 word which has 6 or more letters .
+lines containing 3 letter words starting with <M0>
+lines that contain a word with 5 or more vowels .
+lines starting with <M0>
+lines with words ending in <M0> .
+lines with instances of <M0> .
+lines containing the word <M0> .
+lines using words that end with the letter <M0>
+lines that use only 4 words
+lines using <M0> before <M1>
+lines using the vowel combination <M0> and <M1> .
+lines that contain words between <M0> and <M1>
+lines using at least 5 characters
+lines which have <M0>
+lines using words that end with a vowel .
+lines using 2 instances of <M0>
+lines which contain the word <M0> and the letter <M1> .
+lines using words ending with <M0> .
+lines that does not contain any vowels .
+lines that utilize words starting with <M0> .
+lines that contain 3 letter words .
+lines that have 6 letter words ending in <M0> .
+lines that end with the number <M0> .
+lines containing at least 3 words
+lines that contain a word and 5 numbers .
+lines containing <M0> , or <M1>
+lines that contain the words <M0> and  <M1> .
+lines that have words ending in <M0>
+lines that contain exactly 2 words .
+lines that contain at least 1 word and the number <M0>
+lines that start with the letter <M0> followed by the word <M1> .
+lines that contain words using <M0>
+lines that contain <M0> or <M1>
+lines that contain the text <M0> .
+lines that have words with 7 letters .
+lines that contain the word <M0>
+lines that do not have <M0> in them
+lines that end with vowels .
+lines that contain words ending with <M0> .
+lines that have a word containing <M0> or <M1>
+lines using 3 instances of <M0>
+lines containing <M0> and <M1> that do not have a <M2> anywhere .
+lines which contain a word ending in <M0> .
+lines containing <M0> and containing <M1> too
+lines which begin with <M0> , has a <M1> in the middle and end in a number .
+lines that are composed of the letters <M0> , <M1> , and <M2> .
+lines that have <M0> after <M1> or <M2> .
+lines using words containing <M0> .
+lines that contain the word <M0> but do not contain the word <M1> .
+lines utilizing words starting with <M0> .
+lines that have 1 number
+lines which contain multiple quoted words .
+lines that contain at least 2 digits .
+lines that contain 2 repetitions of the word <M0>
+lines with a word ending in <M0> that contain only 1 word
+lines that mention both <M0> and <M1> .
+lines with the word <M0> in them .
+lines using <M0> before <M1>
+lines that contain the word <M0> followed by at least 1 number .
+lines that contain at least 2 capital letters .
+2 letter lines
+lines that use words with <M0> .
+lines using 5 or more words .
+lines using 4 or more words
+lines using <M0> before <M1>
+lines that use <M0> and <M1> .
+lines which end with <M0>
+lines using <M0> after <M1>
+lines that use numbers .
+lines where numbers exist only after a sequence of <M0> and <M1>
+lines that contain words ending with <M0> .
+lines beginning with the letter <M0>
+lines that contain 4 letter words ending in <M0>
+lines containing 3 or more vowels .
+lines that start with <M0>
+lines with numbers
+lines containing at least 1 uppercase letter , and at least 1 lowercase letter
+lines that have at least 6 characters
+lines using <M0> before <M1>
+lines that each begin with a vowel
+lines that contain words ending with vowels .
+lines that contain words with <M0> .
+lines using <M0> and containing the words <M1> and <M2> .
+lines where the letter <M0> appears exactly 4 times
+lines that have more than 6 numbers .
+lines containing <M0> or <M1>
+lines where there are exactly 2 words and 7 characters .
+lines using <M0> or <M1>
+lines that contain a number and contain a 3 letter word .
+lines that start with the letter <M0> and end with the letter <M1>
+lines containing a 6 letter sequence
+lines using a 3 letter sequence
+lines which do not have numbers .
+lines that have the word <M0> , and at least 1 number .
+lines that have a number , but only if it is followed by <M0>
+lines that include 1 word using at least 2 letters
+lines containing at least 2 characters but not 4 characters or more
+lines containg the number <M0> .
+lines any words beginning with the letter <M0> .
+lines that contain 2 numbers that contain <M0> .
+lines that end with <M0>
+lines that contain at least 1 number .
+lines that contain numbers
+lines which contain 2 or more <M0> .
+lines containing <M0> before <M1>
+lines using <M0> immediately after <M1>
+lines that contain 3 words and have at least 2 numbers .
+lines that contain words starting with <M0> .
+lines that contain words starting with <M0> .
+lines which have the word <M0>
+lines that have 3 numbers and contain the word <M0> .
+lines with <M0> as a stand alone word .
+lines that have 5 or more words of 3 or fewer letters .
+lines that have at least 1 capital letter .
+lines that contain at least 1 numeric in it .
+lines that contain any 3 vowels
+lines that contain the text <M0>
+lines containing <M0> and <M1> .
+lines containing 2 or more words containing <M0> .
+lines that contain words starting with <M0> .
+lines containing the word <M0> .
+lines that contain the word <M0>
+lines containing words that start with <M0> and end with <M1> .
+lines that utilize the <M0> symbol .
+lines using <M0> between <M1> and <M2>
+lines which have at least 1 numeric character .
+lines using any instance of <M0> or <M1> followed by <M2> or <M3>
+lines which do not begin with an uppercase letter .
+lines that use words of at least 9 letters .
+lines which contain <M0> or <M1>
+lines with words that contain 3 letters
+lines beginning with <M0>
+lines that begins with the word <M0> .
+lines which contain both <M0> and <M1> but no instances of <M2> .
+lines with vowels
+lines ending with <M0> that use the word <M1> .
+lines that contain a word starting with a vowel .
+lines that contain both the word <M0> and the word <M1>
+lines that end in an <M0>
+lines that have at least 5 numbers .
+lines that have only 2 words in them .
+lines that contain words starting in <M0>
+lines which contain a 3 letter string starting with a
+lines that contain words with <M0> .
+lines which have words beginning with <M0> .
+lines containing any mention of the word <M0> .
+lines which have instances of <M0> .
+lines that contain a number .
+lines that contain 5 vowels
+lines that have 4 words or less where at least 1 of those words contains the letter sequence <M0> .
+lines that have 5 characters and no vowels .
+lines that begin with the word <M0>
+lines that only have 3 words
+lines that contain at least 1 word which is 8 characters or longer
+lines that are composed of 5 words or less where at least 1 word begins with the letter <M0> .
+lines which do not have <M0> .
+lines that have at least 3 words .
+lines which contain the word <M0> but do not contain the word <M1>
+lines that contain at least 1 vowel in each word .
+lines that mention <M0> in the same line as <M1> .
+lines with <M0> between <M1> and <M2> .
+lines that contain words starting with <M0> .
+lines that contain only the letters <M0> .
+lines that end with <M0>
+lines of 6 characters that end with the letter <M0> .
+lines with <M1> where the word <M0> does not appear before <M1> in that line .
+lines containing <M0> or <M1> before <M2> or <M3>
+lines that start with <M0> .
+lines that begin with <M0> and end with <M1>
+lines that contain at least 1 <M0>
+lines that contain the phrase <M0> .
+lines that begin with a numeral
+lines that start with <M0>
+lines that do not contain a number .
+lines containing <M0> and containing a <M1> as well .
+lines containing 4 words .
+lines that end with <M0>
+lines containing words starting with the letter <M0> .
+Look for any line with the <M0> symbol .
+lines that contain a number ending with <M0>
+lines that contain <M0> and contain <M1>
+lines that show the text <M0> and the word <M1> .

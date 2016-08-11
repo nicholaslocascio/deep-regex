@@ -1,0 +1,5 @@
+h5py==2.5.0
+matplotlib==1.4.3
+numpy==1.10.4
+seaborn==0.6.0
+scikit_learn==0.17.1
