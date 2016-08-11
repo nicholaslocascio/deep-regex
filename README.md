@@ -3,6 +3,13 @@
 Code for the paper [Neural Generation of Regular Expressions from Natural Language
 with Minimal Domain Knowledge](http://arxiv.org/abs/1608.03000) (EMNLP 2016).
 
+#### Summary
+Our neural model translates natural language queries into regular expressions which embody their meaning. We model the problem as a sequence-to-sequence mapping task using attention-based LSTM's. Our model achieves a performance gain of 19.6% over previous state-of-the-art models.
+
+We also present a methodology for collecting a large corpus of regular expression, natural language pairs using Mechanical Turk and grammar generation. We utilize this methology to create the `NL-RX` dataset.
+
+This dataset is open and available in this repo.
+
 ## Installation
 
 ### Requirements
