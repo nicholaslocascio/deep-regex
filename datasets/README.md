@@ -1,5 +1,5 @@
 ## Datasets
-Datasets are provided in 3 folders within `/datasets/`: `KB13`, `NL-RX-Synth`, `NL-RX-Turk`. 
+Datasets are provided in 3 folders within `/datasets/`: `KB13`, `NL-RX-Synth`, `NL-RX-Turk`. Datasets are open source under MIT license.
 
 * `KB13` is the data from [Kushman and Barzilay, 2013](http://people.csail.mit.edu/nkushman/papers/naacl2013.pdf). 
 * `NL-RX-Synth` is data from `NL-RX`<sup>1</sup> with original synthetic descriptions.
