@@ -53,7 +53,7 @@ def regex_equiv(gold, predicted):
     out = subprocess.check_output(['java', '-jar', 'regex_dfa_equals.jar', '{}'.format(gold), '{}'.format(predicted)])
     print("out")
     print(out)
-    if '\n1' in str(out):
+    if '\\n1' in str(out):
       return True
     else:
       return False
